@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>HTML Encoder</title>
+        <script type="text/javascript" src="/static/javascript/jquery-1.3.2.js"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                
+                var encode = function(input) {
+                    var lines, line, nonBreakingSpaces, i, result, newline, output = '';
+                    
+                    var appendBreakTags = jQuery('#appendBreakTags:checked').length >= 1;
+                    var encodeLeadingSpaces = jQuery('#encodeLeadingSpaces:checked').length >= 1;
+                    
+                    input = input.replace(/&/g, '&amp;');
+                    input = input.replace(/</g, '&lt;');
+                    input = input.replace(/>/g, '&gt;');
+                    input = input.replace(/\"/g, '&quot;');
+                    
+                    // Break the input into multiple lines
+                    lines = input.split('\n');
+                    for (i = 0; i < lines.length; i++) {
+                        line = lines[i];
+                        result = /^(\s*)/.exec(line);
+                        nonBreakingSpaces = result[0].replace(/\s/g, '&nbsp;');
+                        line = encodeLeadingSpaces ? line.replace(/^\s*/, nonBreakingSpaces) : line;
+                        newline = appendBreakTags ? '<br/>\n' : '\n';
+                        output += line + newline;
+                    }
+                    
+                    return output;
+                };
+                
+                jQuery('#encodeButton').click(function() {
+                    var inputHtml = jQuery('#inputHtml').val();
+                    jQuery('#encodedResult').val(encode(inputHtml));
+                });
+            });
+        </script>
+        <style>
+            DIV { padding-bottom: 10px; }
+        </style>
+    </head>
+
+    <body>
+        <div>
+            Enter original HTML:
+        </div>
+        <div>
+            <textarea id="inputHtml" rows="15" cols="120" name="in"></textarea>
+        </div>
+        <div>
+            <input type="checkbox" id="appendBreakTags" checked="checked"/><label for="appendBreakTags">Append &lt;br/&gt; tags</label>
+
+        </div>
+        <div>
+            <input type="checkbox" id="encodeLeadingSpaces" checked="checked"/><label for="encodeLeadingSpaces">Encode leading spaces to &amp;nbsp;</label>
+        </div>
+        <div>
+            <input id="encodeButton" type="button" value="Encode"/>
+        </div>
+        <div>
+
+            Encoded output:
+        </div>
+        <div>
+            <textarea id="encodedResult" rows="15" cols="120" name="out"></textarea>
+        </div>
+    </body>
+</html>
