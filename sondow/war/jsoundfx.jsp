@@ -5,7 +5,7 @@
         <link type="text/css" rel="stylesheet" href="/static/styles/main.css" />
     </head>
     <body>
-        <a href="jsoundfx.jnlp">JSoundFX</a>
+        Launch app with Java Web Start: <a href="jsoundfx.jnlp">JSoundFX</a>
         <jsp:include page="/common/googleanalytics.jsp" />
     </body>
 </html>
