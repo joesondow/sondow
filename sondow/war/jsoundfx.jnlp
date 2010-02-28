@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="http://localhost:8888" href="jsoundfx.jnlp">
+<jnlp spec="1.0+" codebase="http://www.sondow.com" href="jsoundfx.jnlp">
     <information>
         <title>JSoundFX</title>
         <vendor>Joe Sondow</vendor>
