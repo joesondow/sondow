@@ -1,26 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xmlns="http://java.sun.com/xml/ns/javaee"
-xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
-xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
-http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
-	<servlet>
-		<servlet-name>Sondow</servlet-name>
-		<servlet-class>com.sondow.SondowServlet</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>Sondow</servlet-name>
-		<url-pattern>/sondow</url-pattern>
-	</servlet-mapping>
-	<servlet>
-		<servlet-name>JSoundFX</servlet-name>
-		<servlet-class>com.sondow.JSoundFXServlet</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>JSoundFX</servlet-name>
-		<url-pattern>/jsoundfx</url-pattern>
-	</servlet-mapping>
-	<welcome-file-list>
-		<welcome-file>home.jsp</welcome-file>
-	</welcome-file-list>
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <servlet>
+        <servlet-name>Sondow</servlet-name>
+        <servlet-class>com.sondow.SondowServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Sondow</servlet-name>
+        <url-pattern>/sondow</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>JSoundFX</servlet-name>
+        <servlet-class>com.sondow.JSoundFXServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>JSoundFX</servlet-name>
+        <url-pattern>/jsoundfx</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>ShutUpServlet</servlet-name>
+        <servlet-class>com.sondow.ShutUpServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ShutUpServlet</servlet-name>
+        <url-pattern>/shutup</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>home.jsp</welcome-file>
+    </welcome-file-list>
 </web-app>
