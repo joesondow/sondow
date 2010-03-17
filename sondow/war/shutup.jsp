@@ -7,7 +7,7 @@
     <body>
 	    Launch app with Java Web Start:
 	    <ul>
-	    	<li><a href="shutup.jnlp">Shut Up</a></li>
+	    	<li><a href="Shutup.jnlp">Shut Up</a></li>
 	    </ul>
         <jsp:include page="/common/googleanalytics.jsp" />
     </body>
