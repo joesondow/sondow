@@ -83,11 +83,11 @@ Director of Communications
  
 SIDE PROJECTS
 
--   http://www.sondow.com Ð My blog, open source projects, and videos of my tech talks
--   http://www.jeanneyan.com Ð Implemented animated portfolio site for a graphic designer, using jQuery
--   http://www.javasig.com Ð Contributed to Java community site, using JSF
--   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
--   Shutup Ð Contributed to open source lightning talk timer written in JavaFX
+-   http://www.sondow.com - My blog, open source projects, and videos of my tech talks
+-   http://www.jeanneyan.com - Implemented animated portfolio site for a graphic designer, using jQuery
+-   http://www.javasig.com - Contributed to Java community site, using JSF
+-   Inchfox - Created Firefox add-on for unit conversions, written in XUL and JavaScript
+-   Shutup - Contributed to open source lightning talk timer written in JavaFX
 -   Tetris clone written in Java Swing
 -   Greasemonkey scripts at userscripts.org
 
