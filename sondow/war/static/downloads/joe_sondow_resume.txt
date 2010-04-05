@@ -1,0 +1,127 @@
+JOE SONDOW
+
+304 W 92nd St Apt 6E, NYC, NY 10025 - Cell: 347-752-3640 - Home: 212-873-0376 - Email: joe@sondow.com - Web: sondow.com
+
+
+OBJECTIVE
+
+A software engineering position building highly usable, scalable, fault-tolerant systems that delight end users, create sustainable business value, and follow good development practices. 
+
+TECHNICAL SKILLS
+
+Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, CVS, Subversion, Kettle, Hudson, JUnit, Selenium, Linux, Mac, Windows
+
+EXPERIENCE
+
+Marketing Technology Solutions (now QualityHealth)  8/2005-Present
+
+MTS is an industry leader in health-related targeted lead generation. The technology team builds and maintains multiple consumer web sites, a B2B site, and internal web applications for administration and reporting.
+Environment: Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, JFreeChart, Apache Commons
+
+Director of Software Development, Jersey City, NJ   1/2009-Present
+
+Process improvements
+-   Established coding conventions, rotating peer reviewers, group review process, and wiki documentation process.
+-   Instituted and led daily stand up meetings and post-release retrospectives to keep developers, QA, and managers informed.
+-   Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.
+-   Gathered requirements from stakeholders, wrote functional and technical specs as needed before implementing large projects.
+
+Management
+-   Gave direction to seven developers and directly managed three, including mentoring and employee evaluations.
+-   Managed team of six consultants to implement complete overhaul of QualityHealth.com.
+-   Interviewed dozens of developers. Hired and trained five. 
+-   Managed group project to migrate from buggy CMS to faster, more stable solution.
+-   Managed a team of 3 developers to integrate third party Adam encyclopedia content feed. This included parsing XML feeds for 5 content types, converting the data into a taggable, searchable content management system. 
+-   Ensured that developers got all 1,000+ Selenium test cases passing logically before each release.
+
+Technology improvements and projects
+-   Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to send customized, easy response test result emails using Groovy. 
+-   Redesigned metrics cache-flushing system to increase thread safety and eliminate database locking, using materialized views and atomic data types.
+-   Created searchable, categorizable content management system for 15 content types and newsletter automation system, increasing newsletter output 10-fold.
+-   Built system to preview field differences between like objects before promoting data changes from staging to production servers.
+-   Built code generator in Swing using NetBeans, to accelerate creation of XDoclet-decorated Entity EJBs, Session EJBs, and associated JUnit tests.
+
+Senior Software Engineer, Jersey City, NJ   12/2007-12/2008
+
+-   Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize database.
+-   Moved shell scripts into version control.
+-   Enhanced server statistics reports with threshold-based color-coding for at-a-glance production health metrics.
+-   Added JavaScript-based filtering for long lists in internal administrative application.
+-   Implemented graphical charting with JFreeChart for existing reports.
+-   Taught technical sessions on jQuery, Selenium, web site usability, Eclipse, CVS.
+-   Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.
+-   Refactored to improve performance, readability, and maintainability, while increasing code coverage.
+-   Invented ways to add Selenium testability to subsystems that had no tests due to complex web flow logic.
+
+Software Engineer, New York, NY 4/2006-11/2007
+
+-   Created syndicated Ajax survey application deployed across multiple partner web sites. The app used forms, animation, in-page forward and backward flow navigation, cross-domain requests using json-p, jQuery, JSLint and Selenium tests.
+-   Built event metrics capturing system for 17 user events with a combination of Ajax and server-side code.
+-   Integrated a new third-party email system, using Kettle for data loading and migration.
+
+Technical Operations Manager, New York, NY  8/2005-3/2006
+
+-   Used Eclipse, vi, CVS to code Java using Entity EJBs and Stateless Session EJBs. Wrote JavaScript functions and HTML. Used DB Studio, Unix shell scripting, sed, awk, Regex, SQL to build data transfer setups for clients including Merck, GSK, and Pfizer. Performed Oracle SQL queries. Installed PGP and SSH public keys. Trained and managed new employee. Wrote documentation. 
+
+
+American Society for Psychical Research, New York, NY   3/2001-10/2002
+
+The ASPR is a non-profit education and research organization specializing in the science and history of parapsychology.
+Web Developer
+
+-   Coded JavaScript and HTML. Installed Perl CGI Scripts for product orders and surveys. Scripted batch image processing. Performed in-house tech support. Wrote detailed computer manuals.
+
+
+Seet Internet Ventures, Inc., Los Angeles, CA   7/1999-2/2001
+
+SIVI is an internet incubator that spawned over a dozen web companies and now focuses on Auditude, a video monetization company.
+
+Director of Communications
+
+-   Managed and analyzed database with SQL on Unix. Converted printed docs into HTML for J. D. Power. Wrote documentation, performed tech support. Hired and supervised new employee. 
+
+ 
+SIDE PROJECTS
+
+-   http://www.sondow.com Ð My blog, open source projects, and videos of my tech talks
+-   http://www.jeanneyan.com Ð Implemented animated portfolio site for a graphic designer, using jQuery
+-   http://www.javasig.com Ð Contributed to Java community site, using JSF
+-   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
+-   Shutup Ð Contributed to open source lightning talk timer written in JavaFX
+-   Tetris clone written in Java Swing
+-   Greasemonkey scripts at userscripts.org
+
+
+EDUCATION AND CERTIFICATION
+
+Columbia University 12/2004
+
+Java Programming and Software Development Certificate (GPA 4.1)
+8-course program over 16 months covering OOAD, UML, Java, JSP, JDBC, SQL, Oracle, XML, SAX, J2EE, EJB (Session, Entity, Message-Driven Beans), JMS, JNDI, Struts, MVC, DOM, Regex, Log4J, Ant, JBoss, Swing, AWT, threads, sockets, C, C++
+
+Sun Microsystems    5/2005
+
+Sun Certified Programmer for the Java 2 Platform 1.4 (SCJP) (Score: 98%)
+Sun Certified Associate for the Java 2 Platform 1.4 (SCJA) (Score: 98%) 
+
+Pomona College, Claremont Consortium of Colleges, Claremont, CA 1995-1999
+
+Bachelor of Arts, English 
+
+
+CONFERENCES ATTENDED
+
+-   Java Posse Roundup 2009, 2010
+-   No Fluff Just Stuff 2006, 2007, 2008, 2009
+-   JBossWorld 2008
+-   Rich Web Experience 2008
+
+
+FAVORITE PODCASTS
+
+-   The Java Posse
+-   Buzz Out Loud
+-   The Official jQuery Podcast
+-   grailspodcast
+-   TEDTalks
+

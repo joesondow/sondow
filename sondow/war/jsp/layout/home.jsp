@@ -8,11 +8,11 @@
     <body>
     	<h1>Joe Sondow</h1>
     	<img src="/static/images/joe_sondow.jpg" class="portrait"/>
-        <ul>
-            <li class="software">Software Hobbies
+        <ul id="outerList">
+            <li class="software">Software
 		        <ul>
 			        <li><a href="https://addons.mozilla.org/en-US/firefox/addon/13440">Inchfox</a> - Firefox plugin for unit conversions</li>
-			   <!--      <li><a href="/tetris">Tetris</a></li>  -->
+			   <!--      <li><a href="/tetris">Tetris</a></li>    -->
 			        <li><a href="http://www.jeanneyan.com">jeanneyan.com</a> - Portfolio web site for graphic designer, written in jQuery</li>
 			        <li><a href="/shutup">Shutup</a> - Contributed to lightning talk timer written in JavaFX</li>
 			        <li><a href="http://userscripts.org/users/73540/scripts">Greasemonkey scripts</a></li>
@@ -32,17 +32,7 @@
 	        		<li><a href="http://www.linkedin.com/in/joesondow">LinkedIn</a></li>
 	        	</ul>
         	</li>
-        	<!-- 
-        	<li class="resume">Resume
-        		<ul>
-        			<li><a href="/joe_sondow_resume.doc">Word</a></li>
-        			<li><a href="/joe_sondow_resume.pdf">PDF</a></li>
-        			<li><a href="/joe_sondow_resume.txt">Text</a></li>
-        			<li><a href="/joe_sondow_resume.html">HTML</a></li>
-        		</ul>
-        	</li>
-        	 -->
-	        <li class="podcasts">Recommended Podcasts
+	        <li class="podcasts">Favorite Podcasts
 		        <ul>
 		            <li><a href="http://www.javaposse.com">The Java Posse</a></li>
 				    <li><a href="http://www.cnet.com/buzz-out-loud-podcast">Buzz Out Loud</a></li>
@@ -52,12 +42,6 @@
 				</ul>
 			</li>
         </ul>
-        
-        <div id="other"></div>
-        
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-        <script type="text/javascript" src="/static/javascript/main.js"></script>
-        
-        <jsp:include page="/jsp/common/googleanalytics.jsp" />
+        <jsp:include page="/jsp/common/javascript.jsp" />
     </body>
 </html>

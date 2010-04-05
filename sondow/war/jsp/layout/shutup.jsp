@@ -9,6 +9,6 @@
 	    <ul>
 	    	<li><a href="Shutup.jnlp">Shut Up</a></li>
 	    </ul>
-        <jsp:include page="/jsp/common/googleanalytics.jsp" />
+        <jsp:include page="/jsp/common/javascript.jsp" />
     </body>
 </html>

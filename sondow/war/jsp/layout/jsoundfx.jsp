@@ -10,6 +10,6 @@
 	    	<li><a href="jsoundfx.jnlp">JSoundFX (mp3 and wav)</a></li>
 	    	<li><a href="jsoundfx-wav.jnlp">JSoundFX (wav only)</a></li>
 	    </ul>
-        <jsp:include page="/jsp/common/googleanalytics.jsp" />
+        <jsp:include page="/jsp/common/javascript.jsp" />
     </body>
 </html>
