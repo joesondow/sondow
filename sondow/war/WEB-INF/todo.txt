@@ -1,4 +1,3 @@
-fix left border pixel, 
 tetris page, 
 shutup page, 
 inchfox upgrade, 

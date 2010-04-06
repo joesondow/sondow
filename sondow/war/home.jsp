@@ -37,7 +37,7 @@
             	        		<li><a href="http://www.linkedin.com/in/joesondow">LinkedIn</a></li>
             	        	</ul>
                     	</li>
-            	        <li class="podcasts"><h2>Favorite Podcasts</h2>
+            	        <li class="podcasts last"><h2>Favorite Podcasts</h2>
             		        <ul>
             		            <li><a href="http://www.javaposse.com">The Java Posse</a></li>
             				    <li><a href="http://www.cnet.com/buzz-out-loud-podcast">Buzz Out Loud</a></li>
