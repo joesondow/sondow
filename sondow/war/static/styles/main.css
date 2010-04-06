@@ -1,5 +1,5 @@
-body { font-family: Helvetica, Arial, Verdana, sans-serif; margin-top: 15px; background-color: #030C13; }
-
+body { font-family: Helvetica, Arial, Verdana, sans-serif; margin-top: 15px; background-color: #030C13; color: white; }
+a    { color: #86B6FF; text-decoration: none; }
 a:active { outline: none; }
 a:focus  { -moz-outline-style: none; }
 
