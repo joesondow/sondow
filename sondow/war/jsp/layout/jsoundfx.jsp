@@ -7,8 +7,7 @@
     <body>
 	    Launch app with Java Web Start:  
 	    <ul>
-	    	<li><a href="jsoundfx.jnlp">JSoundFX (mp3 and wav)</a></li>
-	    	<li><a href="jsoundfx-wav.jnlp">JSoundFX (wav only)</a></li>
+	    	<li><a href="jsoundfx.jnlp">JSoundFX</a></li>
 	    </ul>
         <jsp:include page="/jsp/common/javascript.jsp" />
     </body>

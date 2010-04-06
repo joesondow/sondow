@@ -13,7 +13,7 @@
     <resources>
         <j2se version="1.5+"/>
         <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
-        <jar href="/app/jsoundfx.jar" main="true"/>
+        <jar href="/app/jsoundfx-1.1.jar" main="true"/>
     </resources>
     <application-desc main-class="com.sun.javafx.runtime.main.Main">
         <argument>MainJavaFXScript=jsoundfx.SoundStage</argument>
