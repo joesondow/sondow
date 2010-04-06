@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
     <servlet>
-        <servlet-name>Sondow</servlet-name>
-        <jsp-file>/jsp/layout/home.jsp</jsp-file>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>Sondow</servlet-name>
-        <url-pattern>/sondow</url-pattern>
-    </servlet-mapping>
-    <servlet>
         <servlet-name>JSoundFX</servlet-name>
         <jsp-file>/jsp/layout/jsoundfx.jsp</jsp-file>
     </servlet>
@@ -17,12 +9,20 @@
         <url-pattern>/jsoundfx</url-pattern>
     </servlet-mapping>
     <servlet>
-        <servlet-name>ShutUpServlet</servlet-name>
+        <servlet-name>ShutUp</servlet-name>
         <jsp-file>/jsp/layout/shutup.jsp</jsp-file>
     </servlet>
     <servlet-mapping>
-        <servlet-name>ShutUpServlet</servlet-name>
+        <servlet-name>ShutUp</servlet-name>
         <url-pattern>/shutup</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Resume</servlet-name>
+        <jsp-file>/jsp/layout/resume.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Resume</servlet-name>
+        <url-pattern>/resume</url-pattern>
     </servlet-mapping>
     <servlet>
         <servlet-name>CheckTimeZoneServlet</servlet-name>
@@ -33,6 +33,6 @@
         <url-pattern>/checkTimeZone</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
-        <welcome-file>/jsp/layout/home.jsp</welcome-file>
+        <welcome-file>home.jsp</welcome-file>
     </welcome-file-list>
 </web-app>
