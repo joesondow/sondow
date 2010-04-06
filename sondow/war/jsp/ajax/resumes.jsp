@@ -7,5 +7,5 @@
     </ul>
 </li>
 <style type="text/css">
-ul.outerList > li { width: 150px; }
+ul.outerList > li { width: 184px; }
 </style>
