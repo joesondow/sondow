@@ -1,14 +1,14 @@
-body { font-family: Helvetica, Arial, Verdana, sans-serif; margin-top: 15px; background-color: #030C13; color: white; }
-a    { color: #86B6FF; text-decoration: none; }
+body     { font-family: Helvetica, Arial, Verdana, sans-serif; margin-top: 15px; background-color: #030C13; color: white; }
+a        { color: #86B6FF; text-decoration: none; }
 a:active { outline: none; }
 a:focus  { -moz-outline-style: none; }
+img      { border: 0; }
 
 div.outer { background-color: #111925; margin: auto; width: 925px; }
 div.container { background-color: #111925; border: 1px solid #284351; float: left; clear: both; }
+div.description { padding: 20px; }
 
 ul { list-style-image: none; list-style-position: outside; list-style-type: none; padding-left: 0; }
-
-li { }
 
 div.header     { position: relative; margin-top: 20px; border-top: 1px solid #284351; border-bottom: 1px solid white; background-repeat: no-repeat; background-image: url('/static/images/swish-upper.jpg'); height: 241px; }
 div.header h1  { position: absolute; top: 150px; left: 200px; color: white; font-family: Helvetica, Arial, Verdana, sans-serif; font-weight: 300; margin-top: 0; width: 70px; text-indent: -32px; }
@@ -24,3 +24,6 @@ ul.outerList > li > ul > li     { color: white;   font-family: Helvetica, Arial,
 ul.outerList > li > ul > li > a { color: #86B6FF; font-family: Helvetica, Arial, Verdana, sans-serif; font-weight: 100; font-size: 11pt; text-decoration: none; }
 
 div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish-lower.jpg'); border-top: 1px solid white; height: 30px; clear: both; }
+
+img.screenshot { float: right; padding-left: 20px; }
+a.launch { font-size: 16pt; }
