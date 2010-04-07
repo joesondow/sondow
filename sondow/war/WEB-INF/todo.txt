@@ -2,8 +2,6 @@ tetris page,
 shutup page, 
 inchfox upgrade, 
 icons on lists, 
-list header image, 
 blog entries,
-verizon account
 linkedin specialties
 linkedin summary

@@ -38,7 +38,7 @@ ul { margin: 8pt 0 8pt; }
 <body>
 <div class=Section1>
 <h1>JOE SONDOW</h1>
-<p class="bodyText">304 W 92nd St Apt 6E, NYC, NY 10025 &#8226; Cell: 347-752-3640 &#8226; Home: 212-873-0376
+<p class="bodyText">304 W 92nd St Apt 6E, NYC, NY 10025 &#8226; Cell: 917-763-7816 &#8226; Home: 212-873-0376
 &#8226; Email: joe@sondow.com &#8226; Web: sondow.com</p>
 <h2>OBJECTIVE</h2>
 <p class="bodyText">A software engineering position building highly usable, scalable, fault-tolerant systems that
