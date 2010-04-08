@@ -20,9 +20,9 @@ ul.outerList           { background-image:url(/static/images/section_title_bar.j
 ul.outerList           { float: left; background-color: #111925; margin: 0; width: 925px; }
 ul.outerList > li      { float: left; border-right: 1px solid #284351;      width: 230px; height: 260px; }
 ul.outerList > li.last { border-right: none; }
-ul.outerList > li > h2 { color: white; font-weight: normal; font-size: 12pt; text-align: center; margin: 0 0 9px; padding: 8px 0 5px; }
+ul.outerList > li > h2 { float: left; width: 230px; color: white; font-weight: normal; font-size: 12pt; text-align: center; margin: 0 0 9px; padding: 8px 0 5px; }
 
-ul.outerList > li > ul          { padding: 0 17px; }
+ul.outerList > li > ul          { float: left; padding: 0 17px; }
 ul.outerList > li > ul > li     { color: white;   font-weight: normal; font-size: 10pt; line-height: 150%; text-indent: -18px; padding-left: 18px; }
 ul.outerList > li > ul > li > a { color: #86B6FF; font-weight: normal; font-size: 11pt; text-decoration: none; }
 
