@@ -22,8 +22,7 @@ h3.date, h4.date { float: right; }
 div.clear        { clear: both;  }
 
 p.bodyText { margin: 0 0 6.0pt 0; line-height: 125%; font-size: 10.0pt; font-family: "Helvetica"; }
-a:link { color: blue; text-decoration: underline; text-underline: single; }
-a:visited { color: purple; text-decoration: underline; text-underline: single; }
+a { color: #1F497D; text-decoration: none; }
 p { margin: 0; margin-bottom: .0001pt; line-height: 125%; font-size: 12.0pt; font-family: "Helvetica"; }
 
  /* Page Definitions */
@@ -37,7 +36,7 @@ ul { margin: 8pt 0 8pt; }
 </head>
 <body>
 <div class=Section1>
-<h1>JOE SONDOW</h1>
+<h1><a href="/">JOE SONDOW</a></h1>
 <p class="bodyText">304 W 92nd St Apt 6E, NYC, NY 10025 &#8226; Cell: 917-763-7816 &#8226; Home: 212-873-0376
 &#8226; Email: joe@sondow.com &#8226; Web: sondow.com</p>
 <h2>OBJECTIVE</h2>

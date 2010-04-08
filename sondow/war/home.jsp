@@ -7,7 +7,7 @@
     </head>
     <body>
         <div class="outer">
-            <div class="container">
+            <div class="container home">
                 <div class="header">
                     <h1>Joe Sondow</h1>
                 	<img src="/static/images/joe_sondow.jpg" class="portrait"/>
