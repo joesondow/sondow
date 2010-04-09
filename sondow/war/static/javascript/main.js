@@ -69,7 +69,7 @@ function calculate_time_zone() {
 }
 
 if (jQuery('#outerList').size() > 0) {
-    jQuery.get('/checkTimeZone', {'timeZoneOffset' : calculate_time_zone()}, function(data) {
+    jQuery.get('/checkTimeZone', {'timeZoneOffset' : calculate_time_zone(), 'ts': new Date().getTime()}, function(data) {
         jQuery('#outerList').prepend(data);
     });
 }
