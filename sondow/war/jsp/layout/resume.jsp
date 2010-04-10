@@ -38,14 +38,17 @@ ul { margin: 8pt 0 8pt; }
 <div class=Section1>
 <h1><a href="/">JOE SONDOW</a></h1>
 <p class="bodyText">304 W 92nd St Apt 6E, NYC, NY 10025 &#8226; Cell: 917-763-7816 &#8226; Home: 212-873-0376
-&#8226; Email: joe@sondow.com &#8226; Web: sondow.com</p>
+&#8226; joe@sondow.com &#8226; http://www.sondow.com</p>
 <h2>OBJECTIVE</h2>
-<p class="bodyText">A software engineering position building highly usable, scalable, fault-tolerant systems that
-delight end users, create sustainable business value, and follow good development practices.</p>
+<p class="bodyText">A software engineering position in the Bay Area building highly usable, 
+scalable, fault-tolerant systems that delight end users, create sustainable business value, 
+and follow good development practices.</p>
 <h2>TECHNICAL SKILLS</h2>
-<p class="bodyText">Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery,
-Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse,
-NetBeans, CVS, Subversion, Kettle, Hudson, JUnit, Selenium, Linux, Mac, Windows</p>
+<p class="bodyText">Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, 
+SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, 
+Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, TextMate, 
+CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, 
+Photoshop, Illustrator, InDesign, Linux, Mac, Windows</p>
 <h2>EXPERIENCE</h2>
 <h3>Marketing Technology Solutions (now QualityHealth)</h3>
 <h3 class="date">8/2005-Present</h3>

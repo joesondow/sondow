@@ -1,15 +1,15 @@
 JOE SONDOW
 
-304 W 92nd St Apt 6E, NYC, NY 10025 - Cell: 917-763-7816 - Home: 212-873-0376 - Email: joe@sondow.com - Web: sondow.com
+304 W 92nd St Apt 6E, NYC, NY 10025 - Cell: 917-763-7816 - Home: 212-873-0376 - joe@sondow.com - http://www.sondow.com
 
 
 OBJECTIVE
 
-A software engineering position building highly usable, scalable, fault-tolerant systems that delight end users, create sustainable business value, and follow good development practices. 
+A software engineering position in the Bay Area building highly usable, scalable, fault-tolerant systems that delight end users, create sustainable business value, and follow good development practices.
 
 TECHNICAL SKILLS
 
-Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, CVS, Subversion, Kettle, Hudson, JUnit, Selenium, Linux, Mac, Windows
+Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, TextMate, CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, InDesign, Linux, Mac, Windows
 
 EXPERIENCE
 
@@ -84,7 +84,7 @@ Director of Communications
 SIDE PROJECTS
 
 -   http://www.sondow.com - My blog, open source projects, and videos of my tech talks
--   http://www.jeanneyan.com - Implemented animated portfolio site for a graphic designer, using jQuery
+-   http://www.jeanneyan.com - Implemented animated portfolio site for an art director, using jQuery
 -   http://www.javasig.com - Contributed to Java community site, using JSF
 -   Inchfox - Created Firefox add-on for unit conversions, written in XUL and JavaScript
 -   Shutup - Contributed to open source lightning talk timer written in JavaFX
