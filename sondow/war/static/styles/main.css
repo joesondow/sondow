@@ -5,7 +5,7 @@ a:active { outline: none; }
 a:focus  { -moz-outline-style: none; }
 img      { border: 0; }
 p        { margin: 0 0 16px; }
-div.outer       { background-color: #111925; margin: auto; width: 925px; }
+div.outer       { background-color: #111925; margin: auto; width: 927px; }
 div.container   { background-color: #111925; border: 1px solid #284351; float: left; clear: both; }
 div.description { }
 
@@ -26,8 +26,8 @@ ul.outerList li ul      { float: left; padding: 0 13px 0 17px; margin: 0; }
 ul.outerList li ul li   { color: white;   font-weight: normal; font-size: 10pt; line-height: 150%; text-indent: -18px; padding-left: 18px; width: auto; height: auto; float: none; border: none; }
 ul.outerList li ul li a { color: #86B6FF; font-weight: normal; font-size: 11pt; text-decoration: none; }
 
-div div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish-lower.jpg'); }
-div.footer { border-top: 1px solid white; height: 30px; clear: both; }
+div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish-lower.jpg'); }
+div.footer { border-top: 1px solid white; height: 30px; clear: both; width: 100%; }
 
 div.description div.header      { background-repeat: no-repeat; background-image: url('/static/images/swish-upper.jpg'); background-position: 0 -128px; }
 div.description div.header      { height: 60px; position: relative; border-bottom: 1px solid #284351; }
