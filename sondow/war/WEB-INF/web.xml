@@ -17,6 +17,14 @@
         <url-pattern>/shutup</url-pattern>
     </servlet-mapping>
     <servlet>
+        <servlet-name>Tetris</servlet-name>
+        <jsp-file>/jsp/layout/tetris.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Tetris</servlet-name>
+        <url-pattern>/tetris</url-pattern>
+    </servlet-mapping>
+    <servlet>
         <servlet-name>Resume</servlet-name>
         <jsp-file>/jsp/layout/resume.jsp</jsp-file>
     </servlet>
