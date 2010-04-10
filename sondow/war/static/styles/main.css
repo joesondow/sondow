@@ -17,7 +17,7 @@ div.home div.header h1  { position: absolute; bottom: 17px; left: 149px; color: 
 div.home div.header img { position: absolute; bottom: 23px; left:  33px;  height: 113px; border: 1px solid #1A588F; }
 
 ul.outerList         { background-image:url(/static/images/section_title_bar.jpg); background-repeat: repeat-x; }
-ul.outerList         { float: left; background-color: #111925; margin: 0; width: 925px; }
+ul.outerList         { float: left; background-color: #111925; margin: 0; width: 100%; }
 ul.outerList li      { float: left; border-right: 1px solid #284351;      width: 230px; height: 260px; margin: 0; }
 ul.outerList li.last { border-right: none; }
 ul.outerList li h2   { float: left; width: 230px; color: white; font-weight: normal; font-size: 12pt; text-align: center; margin: 0 0 9px; padding: 8px 0 5px; }
