@@ -9,7 +9,7 @@
     </information>
     <resources>
         <j2se version="1.5+"/>
-        <jar href="/app/Joe's_Tetris.jar" main="true"/>
+        <jar href="/app/tetris.jar" main="true"/>
     </resources>
     <application-desc main-class="com.sondow.tetris.TetrisApp" />
     <update check="background"/>
