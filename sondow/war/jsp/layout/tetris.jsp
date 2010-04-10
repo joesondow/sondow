@@ -3,12 +3,25 @@
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
         <link type="text/css" rel="stylesheet" href="/static/styles/main.css" />
+        <title>Joe Sondow - Tetris</title>
     </head>
     <body>
-	    Launch app with Java Web Start:
-	    <ul>
-	    	<li>Tetris - (not published yet)</li>
-	    </ul>
+        <div class="outer">
+            <div class="container description">
+                <div class="header">
+                    <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
+                </div>
+                <div class="inner">
+                    <a href="/tetris.jnlp"><img src="/static/images/tetris-screenshot.jpg" class="screenshot"/></a>
+                    <p>
+                        Launch app with Java Web Start:
+                    </p>
+                    <p>
+                        <a href="/tetris.jnlp" class="launch">Tetris</a>
+                    </p>
+                </div>
+            </div>
+        </div>
         <jsp:include page="/jsp/common/javascript.jsp" />
     </body>
 </html>

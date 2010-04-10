@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://www.sondow.com" href="tetris.jnlp">
+    <information>
+        <title>Tetris</title>
+        <vendor>Joe Sondow</vendor>
+        <homepage href="http://www.sondow.com"/>
+        <description>Tetris</description>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <jar href="/app/Joe's_Tetris.jar" main="true"/>
+    </resources>
+    <application-desc main-class="com.sondow.tetris.TetrisApp" />
+    <update check="background"/>
+</jnlp>
