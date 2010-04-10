@@ -6,7 +6,7 @@ a:focus  { -moz-outline-style: none; }
 img      { border: 0; }
 p        { margin: 0 0 16px; }
 div.outer       { background-color: #111925; margin: auto; width: 927px; }
-div.container   { background-color: #111925; border: 1px solid #284351; float: left; clear: both; }
+div.container   { background-color: #111925; border: 1px solid #284351; float: left; clear: both; width: 100%; }
 div.description { }
 
 ul { list-style-image: none; list-style-position: outside; list-style-type: none; padding-left: 0; }
