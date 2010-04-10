@@ -1,5 +1,4 @@
 tetris page, 
-shutup page, 
 inchfox upgrade, 
 icons on lists, 
 blog entries,
