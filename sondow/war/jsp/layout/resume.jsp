@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<meta name=Title content="Joe Sondow">
+<meta name="Title" content="Joe Sondow" />
 <title>Joe Sondow</title>
 <style>
 <!--
@@ -166,13 +166,13 @@ Auditude, a video monetization company.</p>
 <h3>Columbia University</h3>
 <h3 class="date">12/2004</h3>
 <div class="clear"></div>
-<p class="bodyText">Java Programming and Software Development Certificate (GPA 4.1)<br>
+<p class="bodyText">Java Programming and Software Development Certificate (GPA 4.1)<br/>
 8-course program over 16 months covering OOAD, UML, Java, JSP, JDBC, SQL, Oracle, XML, SAX, J2EE, EJB (Session, Entity,
 Message-Driven Beans), JMS, JNDI, Struts, MVC, DOM, Regex, Log4J, Ant, JBoss, Swing, AWT, threads, sockets, C, C++</p>
 <h3>Sun Microsystems</h3>
 <h3 class="date">5/2005</h3>
 <div class="clear"></div>
-<p class="bodyText">Sun Certified Programmer for the Java 2 Platform 1.4 (SCJP) (Score: 98%)<br>
+<p class="bodyText">Sun Certified Programmer for the Java 2 Platform 1.4 (SCJP) (Score: 98%)<br/>
 Sun Certified Associate for the Java 2 Platform 1.4 (SCJA) (Score: 98%)</p>
 <h3>Pomona College, Claremont Consortium of Colleges, Claremont, CA</h3>
 <h3 class="date">1995-1999</h3>
