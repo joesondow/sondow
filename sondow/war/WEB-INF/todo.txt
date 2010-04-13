@@ -1,5 +1,4 @@
 tetris page, 
-inchfox upgrade, 
 icons on lists, 
 blog entries,
 linkedin specialties
