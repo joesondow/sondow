@@ -7,7 +7,7 @@ img      { border: 0; }
 p        { margin: 0 0 16px; }
 div.outer       { background-color: #111925; margin: auto; width: 927px; }
 div.container   { background-color: #111925; border: 1px solid #284351; float: left; clear: both; width: 100%; }
-div.description { }
+div.topic { }
 
 ul { list-style-image: none; list-style-position: outside; list-style-type: none; padding-left: 0; }
 
@@ -29,13 +29,13 @@ ul.outerList li ul li a { color: #86B6FF; font-weight: normal; font-size: 11pt; 
 div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish_lower.jpg'); background-position:0 -2px; }
 div.footer { border-top: 1px solid white; height: 30px; clear: both; width: 100%; }
 
-div.description div.header      { background-repeat: no-repeat; background-image: url('/static/images/swish_upper.jpg'); background-position: 0 -128px; }
-div.description div.header      { height: 60px; position: relative; border-bottom: 1px solid #284351; }
-div.description div.header img  { position: absolute; top: 5px; left: 8px;  height: 48px; border: 1px solid #1A588F; }
-div.description div.header h1   { font-size: 19pt; left: 65px; margin: 0; position: absolute; top: 19px; }
-div.description div.header a    { cursor: pointer; }
-div.description div.header a h1 { color: white; font-weight: normal; }
-div.description div.inner       { padding: 20px; float: right; }
+div.topic div.header      { background-repeat: no-repeat; background-image: url('/static/images/swish_upper.jpg'); background-position: 0 -128px; }
+div.topic div.header      { height: 60px; position: relative; border-bottom: 1px solid #284351; }
+div.topic div.header img  { position: absolute; top: 5px; left: 8px;  height: 48px; border: 1px solid #1A588F; }
+div.topic div.header h1   { font-size: 19pt; left: 65px; margin: 0; position: absolute; top: 19px; }
+div.topic div.header a    { cursor: pointer; }
+div.topic div.header a h1 { color: white; font-weight: normal; }
+div.topic div.inner       { padding: 20px; float: right; }
 
 img.screenshot { float: right; padding-left: 20px; }
 a.launch       { font-size: 16pt; }

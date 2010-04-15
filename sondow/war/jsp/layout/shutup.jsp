@@ -7,7 +7,7 @@
     </head>
     <body>
         <div class="outer">
-            <div class="container description">
+            <div class="container topic">
                 <div class="header">
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>

@@ -7,12 +7,12 @@
     </head>
     <body>
         <div class="outer">
-            <div class="container description">
+            <div class="container topic">
                 <div class="header">
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>
                 <div class="inner">
-                    <a href="/tetris.jnlp"><img src="/static/images/tetris_screenshot.jpg" class="screenshot"/></a>
+                    <a href="/tetris.jnlp"><img src="/static/images/tetris_screenshot.gif" class="screenshot"/></a>
                     <p>
                         Launch app with Java Web Start:
                     </p>
