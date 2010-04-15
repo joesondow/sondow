@@ -38,7 +38,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>CheckTimeZoneServlet</servlet-name>
-        <url-pattern>/checkTimeZone</url-pattern>
+        <url-pattern>/ctz</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
         <welcome-file>home.jsp</welcome-file>
