@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-        <link type="text/css" rel="stylesheet" href="/static/styles/main.css" />
+        <jsp:include page="/jsp/common/styles.jsp" />
         <title>Joe Sondow - Tetris</title>
     </head>
     <body>
@@ -23,18 +23,18 @@
                         Game development is a fun way to stretch programming muscles because it
                         requires so many concepts to work together in order to work properly. 
                         I implemented this Tetris game as an exercise in putting a bunch
-                        of skills together for a clear outcome.
+                        of skills together for a clear outcome:
                     </p>
                     <ul>
                         <li>Swing</li>
-                        <li>Keyboard Controls</li>
+                        <li>Arrow Key Controls</li>
                         <li>Multithreading</li>
                         <li>Timers</li>
                     </ul>
                     <p>
-                        The game gradually speeds up as are deleted. To test the game, I ended 
+                        The game gradually speeds up as rows are deleted. To test the game, I ended 
                         up playing incessantly. Mostly I wanted to recreate the sort of casual 
-                        desktop game that I grew up on.
+                        desktop game that I grew up playing.
                     </p>
                     <div class="fix"></div>
                 </div>

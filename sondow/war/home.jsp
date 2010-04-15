@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-        <link type="text/css" rel="stylesheet" href="/static/styles/main.css" />
+        <jsp:include page="/jsp/common/styles.jsp" />
         <title>Joe Sondow</title>
     </head>
     <body>

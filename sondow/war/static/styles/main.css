@@ -37,7 +37,8 @@ div.topic div.header a    { cursor: pointer; }
 div.topic div.header a h1 { color: white; font-weight: normal; }
 div.topic div.inner       { padding: 20px; }
 div.topic div.inner p     { line-height: 17pt; }
-div.topic div.inner ul    {  }
+div.topic div.inner ul li { line-height: 17pt; }
+div.topic div.inner ul    { padding-left: 40px; list-style-type: disc; }
 
 a.screenshot img { float: right; padding-left: 20px; }
 a.launch         { font-size: 16pt; }
