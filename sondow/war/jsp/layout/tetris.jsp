@@ -12,13 +12,20 @@
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>
                 <div class="inner">
-                    <a href="/tetris.jnlp"><img src="/static/images/tetris_screenshot.gif" class="screenshot"/></a>
+                    <a href="/tetris.jnlp" class="screenshot"><img src="/static/images/tetris_screenshot.gif"/></a>
                     <p>
                         Launch app with Java Web Start:
                     </p>
                     <p>
                         <a href="/tetris.jnlp" class="launch">Tetris</a>
                     </p>
+                    <p>
+                        I implemented this Tetris game as an exercise in Java Swing, 
+                        keyboard controls, multiple threads, and timer tasks. Mostly I
+                        wanted to recreate the sort of casual desktop game that I grew
+                        up on.
+                    </p>
+                    <div class="fix"></div>
                 </div>
             </div>
         </div>

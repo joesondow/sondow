@@ -12,7 +12,7 @@
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>
                 <div class="inner">
-                    <a href="/Shutup.jnlp"><img src="/static/images/shutup_screenshot.jpg" class="screenshot"/></a>
+                    <a href="/Shutup.jnlp" class="screenshot"><img src="/static/images/shutup_screenshot.jpg"/></a>
             	    <p>
                         Launch app with Java Web Start:
                     </p>
@@ -34,6 +34,7 @@
                     <p>
                         The code is <a href="http://code.google.com/p/jpr09/source/checkout">open source</a>.
                     </p>
+                    <div class="fix"></div>
                 </div>
             </div>
         </div>

@@ -35,7 +35,8 @@ div.topic div.header img  { position: absolute; top: 5px; left: 8px;  height: 48
 div.topic div.header h1   { font-size: 19pt; left: 65px; margin: 0; position: absolute; top: 19px; }
 div.topic div.header a    { cursor: pointer; }
 div.topic div.header a h1 { color: white; font-weight: normal; }
-div.topic div.inner       { padding: 20px; float: right; }
+div.topic div.inner       { padding: 20px; }
 
-img.screenshot { float: right; padding-left: 20px; }
-a.launch       { font-size: 16pt; }
+a.screenshot img { float: right; padding-left: 20px; }
+a.launch         { font-size: 16pt; }
+div.fix          { clear: both; }
