@@ -7,23 +7,23 @@ img      { border: 0; }
 p        { margin: 0 0 16px; }
 div.outer       { background-color: #111925; margin: auto; width: 927px; }
 div.container   { background-color: #111925; border: 1px solid #284351; float: left; clear: both; width: 100%; }
-div.topic { }
 
 ul { list-style-image: none; list-style-position: outside; list-style-type: none; padding-left: 0; }
 
 div.home div.header     { background-repeat: no-repeat; background-image: url('/static/images/swish_upper.jpg'); background-position: 0 -9px; }
 div.home div.header     { position: relative; margin-top: 20px; border-top: 1px solid #284351; border-bottom: 1px solid white; height: 241px; }
 div.home div.header h1  { position: absolute; bottom: 17px; left: 149px; color: white; font-weight: normal; margin: 0; width: 120px; }
-div.home div.header img { position: absolute; bottom: 23px; left:  33px;  height: 113px; border: 1px solid #1A588F; }
+div.home div.header img { position: absolute; bottom: 23px; left:  33px; height: 113px; border: 1px solid #1A588F; }
 
-ul.outerList         { background-image:url(/static/images/section_title_bar.jpg); background-repeat: repeat-x; }
-ul.outerList         { float: left; background-color: #111925; margin: 0; width: 100%; }
-ul.outerList li      { float: left; border-right: 1px solid #284351;      width: 230px; height: 260px; margin: 0; }
-ul.outerList li.last { border-right: none; }
-ul.outerList li h2   { float: left; width: 230px; color: white; font-weight: normal; font-size: 12pt; text-align: center; margin: 0 0 9px; padding: 8px 0 5px; }
+ul.outerList            { background-image:url(/static/images/section_title_bar.jpg); background-repeat: repeat-x; }
+ul.outerList            { float: left; background-color: #111925; margin: 0; width: 100%; }
+ul.outerList li         { float: left; border-right: 1px solid #284351;      width: 230px; height: 260px; margin: 0; }
+ul.outerList li.last    { border-right: none; }
+ul.outerList li h2      { float: left; width: 230px; color: white; font-weight: normal; font-size: 12pt; text-align: center; margin: 0 0 9px; padding: 8px 0 5px; }
 
 ul.outerList li ul      { float: left; padding: 0 13px 0 17px; margin: 0; }
-ul.outerList li ul li   { color: white;   font-weight: normal; font-size: 10pt; line-height: 150%; text-indent: -18px; padding-left: 18px; width: auto; height: auto; float: none; border: none; }
+ul.outerList li ul li   { color: white;   font-weight: normal; font-size: 10pt; line-height: 150%; text-indent: -18px; }
+ul.outerList li ul li   { padding-left: 18px; width: auto; height: auto; float: none; border: none; }
 ul.outerList li ul li a { color: #86B6FF; font-weight: normal; font-size: 11pt; text-decoration: none; }
 
 div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish_lower.jpg'); background-position:0 -2px; }
@@ -43,3 +43,6 @@ div.topic div.inner ul    { padding-left: 40px; list-style-type: disc; }
 a.screenshot img { float: right; padding-left: 20px; }
 a.launch         { font-size: 16pt; }
 div.fix          { clear: both; }
+
+div.tetris ul.downloads    { float: left; background-color: #111925; margin: 0; }
+div.tetris ul.downloads li { float: left; width: 75px; }

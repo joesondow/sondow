@@ -7,7 +7,7 @@
     </head>
     <body>
         <div class="outer">
-            <div class="container topic">
+            <div class="container topic tetris">
                 <div class="header">
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>
@@ -20,7 +20,7 @@
                         <a href="/tetris.jnlp" class="launch">Tetris</a>
                     </p>
                     <p>
-                        Game development is a fun way to stretch programming muscles because it
+                        Game development is a good way to stretch programming muscles because it
                         requires so many concepts to work together in order to work properly. 
                         I implemented this Tetris game as an exercise in putting a bunch
                         of skills together for a clear outcome:
@@ -34,8 +34,17 @@
                     <p>
                         The game gradually speeds up as rows are deleted. To test the game, I ended 
                         up playing incessantly. Mostly I wanted to recreate the sort of casual 
-                        desktop game that I grew up playing.
+                        desktop game that I grew up playing. 
+                        <a href="http://code.google.com/p/joes-tetris/source/browse/#svn/trunk/tetris/src/com/sondow/tetris">Browse the source code.</a>
                     </p>
+                    <p>
+                        Download:
+                    </p>
+                    <ul class="downloads">
+                        <li><a href="/app/Joe's_Tetris_Win.exe">Win</a></li>
+                        <li><a href="/app/Joe's_Tetris_Mac.jar">Mac</a></li>
+                        <li><a href="/app/tetris.jar">Jar</a></li>
+                    </ul>
                     <div class="fix"></div>
                 </div>
             </div>
