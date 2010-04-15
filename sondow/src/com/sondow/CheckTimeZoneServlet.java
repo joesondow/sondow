@@ -25,7 +25,7 @@ public class CheckTimeZoneServlet extends BaseServlet {
     public void processRequest(HttpServletRequest request,
             HttpServletResponse response) throws IOException, ServletException {
 
-        String timezoneOffsetString = request.getParameter("timeZoneOffset");
+        String timezoneOffsetString = request.getParameter("z");
         double timezoneOffset = Double.parseDouble(timezoneOffsetString);
 
         // Only show the goods to people who are more than 1 time zone away
