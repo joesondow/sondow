@@ -20,10 +20,21 @@
                         <a href="/tetris.jnlp" class="launch">Tetris</a>
                     </p>
                     <p>
-                        I implemented this Tetris game as an exercise in Java Swing, 
-                        keyboard controls, multiple threads, and timer tasks. Mostly I
-                        wanted to recreate the sort of casual desktop game that I grew
-                        up on.
+                        Game development is a fun way to stretch programming muscles because it
+                        requires so many concepts to work together in order to work properly. 
+                        I implemented this Tetris game as an exercise in putting a bunch
+                        of skills together for a clear outcome.
+                    </p>
+                    <ul>
+                        <li>Swing</li>
+                        <li>Keyboard Controls</li>
+                        <li>Multithreading</li>
+                        <li>Timers</li>
+                    </ul>
+                    <p>
+                        The game gradually speeds up as are deleted. To test the game, I ended 
+                        up playing incessantly. Mostly I wanted to recreate the sort of casual 
+                        desktop game that I grew up on.
                     </p>
                     <div class="fix"></div>
                 </div>
