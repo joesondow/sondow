@@ -32,7 +32,7 @@
                         Posse Roundup 2010</a>.
                     </p>
                     <p>
-                        The code is <a href="http://code.google.com/p/jpr09/source/checkout">open source</a>.
+                        <a href="http://code.google.com/p/jpr09/source/browse/#svn/trunk/Shutup/src/shutup">Browse the source code</a>.
                     </p>
                     <div class="fix"></div>
                 </div>
