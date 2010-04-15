@@ -16,11 +16,11 @@
                     <ul id="outerList" class="outerList">
                         <li class="software"><h2>Software</h2>
             		        <ul>
-            			        <li><a href="/tetris">Tetris</a> &#8226; Desktop game written in Java Swing</li>
-            			        <li><a href="https://addons.mozilla.org/en-US/firefox/addon/13440">Inchfox</a> &#8226; Firefox plugin for unit conversions</li>
-            			        <li><a href="http://www.jeanneyan.com">jeanneyan.com</a> &#8226; Portfolio web site for an art director, written in jQuery</li>
-            			        <li><a href="/shutup">Shutup</a> &#8226; Contributed to lightning talk timer written in JavaFX</li>
-            			        <li><a href="http://userscripts.org/users/73540/scripts">Greasemonkey scripts</a></li>
+            			        <li><a href="/tetris">Tetris</a> &#8226; (Swing)</li>
+            			        <li><a href="https://addons.mozilla.org/en-US/firefox/addon/13440">Inchfox</a> &#8226; Firefox unit conversion (XUL)</li>
+            			        <li><a href="http://www.jeanneyan.com">JeanneYan.com</a> &#8226; Art portfolio site (jQuery)</li>
+            			        <li><a href="/shutup">Shutup</a> &#8226; Lightning talk timer (JavaFX)</li>
+            			        <li><a href="http://userscripts.org/users/73540/scripts">Greasemonkey scripts</a> &#8226; (JavaScript)</li>
             		        </ul>
             	        </li>
             	        <li class="lightning"><h2>Lightning Talks</h2>
