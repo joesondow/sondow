@@ -35,7 +35,7 @@
                         The game gradually speeds up as rows are deleted. To test the game, I ended 
                         up playing incessantly. Mostly I wanted to recreate the sort of casual 
                         desktop game that I grew up playing. 
-                        <a href="http://code.google.com/p/joes-tetris/source/browse/#svn/trunk/tetris/src/com/sondow/tetris">Browse the source code.</a>
+                        Browse the <a href="http://code.google.com/p/joes-tetris/source/browse/#svn/trunk/tetris/src/com/sondow/tetris">source code.</a>
                     </p>
                     <p>
                         Download:

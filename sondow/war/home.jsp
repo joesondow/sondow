@@ -17,6 +17,7 @@
                         <li class="software"><h2>Software</h2>
             		        <ul>
             			        <li><a href="/tetris">Tetris</a> &#8226; (Swing)</li>
+            			        <li><a href="/jsoundfx">JSoundFX</a> &#8226; (JavaFX)</li>
             			        <li><a href="https://addons.mozilla.org/en-US/firefox/addon/13440">Inchfox</a> &#8226; Firefox unit conversion (XUL)</li>
             			        <li><a href="http://www.jeanneyan.com">JeanneYan.com</a> &#8226; Art portfolio site (jQuery)</li>
             			        <li><a href="/shutup">Shutup</a> &#8226; Lightning talk timer (JavaFX)</li>
