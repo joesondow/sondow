@@ -12,7 +12,7 @@
                     <a href="/"><img src="/static/images/joe_sondow.jpg"/><h1>Joe Sondow</h1></a>
                 </div>
                 <div class="inner">
-                    <a href="/Shutup.jnlp"><img src="/static/images/shutup-screenshot.jpg" class="screenshot"/></a>
+                    <a href="/Shutup.jnlp"><img src="/static/images/shutup_screenshot.jpg" class="screenshot"/></a>
             	    <p>
                         Launch app with Java Web Start:
                     </p>

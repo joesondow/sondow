@@ -11,7 +11,7 @@ div.description { }
 
 ul { list-style-image: none; list-style-position: outside; list-style-type: none; padding-left: 0; }
 
-div.home div.header     { background-repeat: no-repeat; background-image: url('/static/images/swish-upper.jpg'); background-position: 0 -9px; }
+div.home div.header     { background-repeat: no-repeat; background-image: url('/static/images/swish_upper.jpg'); background-position: 0 -9px; }
 div.home div.header     { position: relative; margin-top: 20px; border-top: 1px solid #284351; border-bottom: 1px solid white; height: 241px; }
 div.home div.header h1  { position: absolute; bottom: 17px; left: 149px; color: white; font-weight: normal; margin: 0; width: 120px; }
 div.home div.header img { position: absolute; bottom: 23px; left:  33px;  height: 113px; border: 1px solid #1A588F; }
@@ -26,10 +26,10 @@ ul.outerList li ul      { float: left; padding: 0 13px 0 17px; margin: 0; }
 ul.outerList li ul li   { color: white;   font-weight: normal; font-size: 10pt; line-height: 150%; text-indent: -18px; padding-left: 18px; width: auto; height: auto; float: none; border: none; }
 ul.outerList li ul li a { color: #86B6FF; font-weight: normal; font-size: 11pt; text-decoration: none; }
 
-div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish-lower.jpg'); background-position:0 -2px; }
+div.footer { background-repeat: no-repeat; background-image: url('/static/images/swish_lower.jpg'); background-position:0 -2px; }
 div.footer { border-top: 1px solid white; height: 30px; clear: both; width: 100%; }
 
-div.description div.header      { background-repeat: no-repeat; background-image: url('/static/images/swish-upper.jpg'); background-position: 0 -128px; }
+div.description div.header      { background-repeat: no-repeat; background-image: url('/static/images/swish_upper.jpg'); background-position: 0 -128px; }
 div.description div.header      { height: 60px; position: relative; border-bottom: 1px solid #284351; }
 div.description div.header img  { position: absolute; top: 5px; left: 8px;  height: 48px; border: 1px solid #1A588F; }
 div.description div.header h1   { font-size: 19pt; left: 65px; margin: 0; position: absolute; top: 19px; }
