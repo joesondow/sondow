@@ -16,7 +16,7 @@
                     <ul id="outerList" class="outerList">
                         <li class="software"><h2>Software</h2>
             		        <ul>
-            			        <li><a href="/tetris">Tetris</a></li>
+            			        <li><a href="/tetris">Tetris</a> &#8226; Desktop game written in Java Swing</li>
             			        <li><a href="https://addons.mozilla.org/en-US/firefox/addon/13440">Inchfox</a> &#8226; Firefox plugin for unit conversions</li>
             			        <li><a href="http://www.jeanneyan.com">jeanneyan.com</a> &#8226; Portfolio web site for an art director, written in jQuery</li>
             			        <li><a href="/shutup">Shutup</a> &#8226; Contributed to lightning talk timer written in JavaFX</li>
