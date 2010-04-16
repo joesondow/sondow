@@ -41,8 +41,8 @@
                         Download:
                     </p>
                     <ul class="downloads">
-                        <li><a href="/app/Joe's_Tetris_Win.exe">Win</a></li>
-                        <li><a href="/app/Joe's_Tetris_Mac.jar">Mac</a></li>
+                        <li><a href="/app/Joes_Tetris_Win.exe">Win</a></li>
+                        <li><a href="/app/Joes_Tetris_Mac.jar">Mac</a></li>
                         <li><a href="/app/tetris.jar">Jar</a></li>
                     </ul>
                     <div class="fix"></div>
