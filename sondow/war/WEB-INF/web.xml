@@ -9,6 +9,14 @@
         <url-pattern>/jsoundfx</url-pattern>
     </servlet-mapping>
     <servlet>
+        <servlet-name>Inchfox</servlet-name>
+        <jsp-file>/jsp/layout/inchfox.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Inchfox</servlet-name>
+        <url-pattern>/inchfox</url-pattern>
+    </servlet-mapping>
+    <servlet>
         <servlet-name>ShutUp</servlet-name>
         <jsp-file>/jsp/layout/shutup.jsp</jsp-file>
     </servlet>
