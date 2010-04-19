@@ -1,5 +1,5 @@
 /**
- * Calculates the browser's tine zone as an offset from GMT
+ * Calculates the browser's time zone as an offset from GMT
  * 
  * @author Josh Fraser
  * http://www.onlineaspect.com/2007/06/08/auto-detect-a-time-zone-with-javascript/
@@ -72,4 +72,15 @@ if (jQuery('#outerList').size() > 0) {
     jQuery.get('/ctz', {'z' : calculate_time_zone(), 'ts': new Date().getTime()}, function(data) {
         jQuery('#outerList').prepend(data);
     });
+    
+    setInterval(function() {
+        var elem = jQuery('#outerList > .software > h2');
+        elem.animate(
+            { 'backgroundPosition': '+600px 0' }, 
+            4000, 
+            function() {
+                elem.css('backgroundPosition', '0 0');
+            }
+        );
+    }, 10000);
 }
