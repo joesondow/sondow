@@ -15,43 +15,45 @@ EXPERIENCE
 
 Marketing Technology Solutions (now QualityHealth)  8/2005-Present
 
-MTS is an industry leader in health-related targeted lead generation. The technology team builds and maintains multiple consumer web sites, a B2B site, and internal web applications for administration and reporting.
-Environment: Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, JFreeChart, Apache Commons
+MTS is an industry leader in health-related targeted lead generation, powered by Java. The technology team builds and maintains multiple consumer web sites, a B2B site, and internal web applications for administration and reporting. Each developer is responsible for front-to-back coding, reviewing, and automated testing of all application layers including JavaScript, Java, and SQL.
+Environment: JDK 6, Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, Quartz, Splunk, JFreeChart, Apache Commons
 
 Director of Software Development, Jersey City, NJ   1/2009-Present
 
-Process improvements
--   Established coding conventions, rotating peer reviewers, group review process, and wiki documentation process.
--   Instituted and led daily stand up meetings and post-release retrospectives to keep developers, QA, and managers informed.
--   Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.
--   Gathered requirements from stakeholders, wrote functional and technical specs as needed before implementing large projects.
+Technology improvements and projects
+-   Rearchitected metrics data storage system to increase thread safety and eliminate database locking, using atomic data types and materialized views.
+-   Created searchable, categorizable content management system from scratch for 15 content types and newsletter automation system, increasing newsletter output 10-fold. This included automated parsing and conversion of various XML and fixed width data feeds from third party content vendors like Adam encyclopedia and NBC video. 
+-   Built code generator in Swing using NetBeans, to accelerate creation of XDoclet-decorated Entity EJBs, Session EJBs, and associated JUnit tests.
+-   Built reflection-based system to preview field differences between like objects before promoting data changes from staging to production servers.
+-   Wrote Groovy scripts for QA members to verify Akamai-related functionality in production, and taught them how to write more Groovy scripts.
+-   Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to send customized, easy response test result emails using Groovy. 
+-   Cleaned and consolidated CSS and JavaScript files to reduce page load times.
 
 Management
+-   Led the charge for increased code coverage with massive additions of Selenium and JUnit tests.
+-   Managed group project to migrate from buggy CMS to faster, more stable solution.
 -   Gave direction to seven developers and directly managed three, including mentoring and employee evaluations.
 -   Managed team of six consultants to implement complete overhaul of QualityHealth.com.
 -   Interviewed dozens of developers. Hired and trained five. 
--   Managed group project to migrate from buggy CMS to faster, more stable solution.
--   Managed a team of 3 developers to integrate third party Adam encyclopedia content feed. This included parsing XML feeds for 5 content types, converting the data into a taggable, searchable content management system. 
 -   Ensured that developers got all 1,000+ Selenium test cases passing logically before each release.
 
-Technology improvements and projects
--   Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to send customized, easy response test result emails using Groovy. 
--   Redesigned metrics cache-flushing system to increase thread safety and eliminate database locking, using materialized views and atomic data types.
--   Created searchable, categorizable content management system for 15 content types and newsletter automation system, increasing newsletter output 10-fold.
--   Built system to preview field differences between like objects before promoting data changes from staging to production servers.
--   Built code generator in Swing using NetBeans, to accelerate creation of XDoclet-decorated Entity EJBs, Session EJBs, and associated JUnit tests.
+Process improvements
+-   Established coding conventions, rotating peer reviewers, group review process, and wiki documentation process.
+-   Instituted and led daily stand up meetings and post-release retrospectives.
+-   Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.
+-   Gathered requirements from stakeholders, wrote functional and technical specs as needed before implementing large projects.
 
 Senior Software Engineer, Jersey City, NJ   12/2007-12/2008
 
--   Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize database.
--   Moved shell scripts into version control.
+-   Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.
+-   Implemented graphical charting with JFreeChart for existing reports.
 -   Enhanced server statistics reports with threshold-based color-coding for at-a-glance production health metrics.
 -   Added JavaScript-based filtering for long lists in internal administrative application.
--   Implemented graphical charting with JFreeChart for existing reports.
--   Taught technical sessions on jQuery, Selenium, web site usability, Eclipse, CVS.
--   Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.
--   Refactored to improve performance, readability, and maintainability, while increasing code coverage.
 -   Invented ways to add Selenium testability to subsystems that had no tests due to complex web flow logic.
+-   Refactored to improve performance, readability, and maintainability, while increasing code coverage.
+-   Taught technical sessions on jQuery, Selenium, web site usability, Eclipse, CVS.
+-   Moved shell scripts into version control.
+-   Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize Oracle database.
 
 Software Engineer, New York, NY 4/2006-11/2007
 
@@ -83,12 +85,13 @@ Director of Communications
  
 SIDE PROJECTS
 
--   http://www.sondow.com - My blog, open source projects, and videos of my tech talks
--   http://www.jeanneyan.com - Implemented animated portfolio site for an art director, using jQuery
--   http://www.javasig.com - Contributed to Java community site, using JSF
--   Inchfox - Created Firefox add-on for unit conversions, written in XUL and JavaScript
--   Shutup - Contributed to open source lightning talk timer written in JavaFX
--   Tetris clone written in Java Swing
+-   http://www.sondow.com Ð My blog, open source projects, and videos of my tech talks
+-   http://www.jeanneyan.com Ð Implemented animated portfolio site for an art director, using jQuery
+-   http://www.javasig.com Ð Contributed to Java community site, using JSF
+-   Tetris Ð Written in Swing
+-   JSoundFX Ð Sound player with graphical button effects, written in JavaFX
+-   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
+-   Shutup Ð Contributed to open source lightning talk timer written in JavaFX
 -   Greasemonkey scripts at userscripts.org
 
 
