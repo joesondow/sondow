@@ -7,25 +7,32 @@ OBJECTIVE
 
 A software engineering position in the Bay Area building highly usable, scalable, fault-tolerant systems that delight end users, create sustainable business value, and follow good development practices.
 
+
+SUMMARY
+
+Results-oriented software engineer with a passion for making great software for the desktop and the web. I believe in writing clean APIs and making code easy to read, test, and use. I enjoy learning new programming languages and technologies, and teaching others what I know. Revenue gains, time savings, and usability are my top priorities. 
+
+
 TECHNICAL SKILLS
 
-Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, TextMate, CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, InDesign, Linux, Mac, Windows
+Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, TextMate, CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, InDesign, Linux, Mac, Windows
+
 
 EXPERIENCE
 
 Marketing Technology Solutions (now QualityHealth)  8/2005-Present
 
-MTS is an industry leader in health-related targeted lead generation, powered by Java. The technology team builds and maintains multiple consumer web sites, a B2B site, and internal web applications for administration and reporting. Each developer is responsible for front-to-back coding, reviewing, and automated testing of all application layers including JavaScript, Java, and SQL.
+MTS is an industry leader in health-related targeted lead generation, powered by Java. The technology team builds and maintains multiple consumer web sites including qualityhealth.com, plus a B2B site, and internal web applications for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, Java, and SQL. 
 Environment: JDK 6, Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, Quartz, Splunk, JFreeChart, Apache Commons
 
 Director of Software Development, Jersey City, NJ   1/2009-Present
 
-Technology improvements and projects
+Technology projects
 -   Rearchitected metrics data storage system to increase thread safety and eliminate database locking, using atomic data types and materialized views.
 -   Created searchable, categorizable content management system from scratch for 15 content types and newsletter automation system, increasing newsletter output 10-fold. This included automated parsing and conversion of various XML and fixed width data feeds from third party content vendors like Adam encyclopedia and NBC video. 
--   Built code generator in Swing using NetBeans, to accelerate creation of XDoclet-decorated Entity EJBs, Session EJBs, and associated JUnit tests.
+-   Built code generator in Swing using NetBeans, to auto-build Entity EJBs, Session EJBs, and JUnit tests.
 -   Built reflection-based system to preview field differences between like objects before promoting data changes from staging to production servers.
--   Wrote Groovy scripts for QA members to verify Akamai-related functionality in production, and taught them how to write more Groovy scripts.
+-   Wrote Groovy scripts for QA to verify Akamai caching in production, and taught them how to write more scripts.
 -   Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to send customized, easy response test result emails using Groovy. 
 -   Cleaned and consolidated CSS and JavaScript files to reduce page load times.
 
@@ -41,7 +48,7 @@ Process improvements
 -   Established coding conventions, rotating peer reviewers, group review process, and wiki documentation process.
 -   Instituted and led daily stand up meetings and post-release retrospectives.
 -   Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.
--   Gathered requirements from stakeholders, wrote functional and technical specs as needed before implementing large projects.
+-   Gathered requirements from stakeholders, wrote functional and technical specs.
 
 Senior Software Engineer, Jersey City, NJ   12/2007-12/2008
 
@@ -86,12 +93,12 @@ Director of Communications
 SIDE PROJECTS
 
 -   http://www.sondow.com Ð My blog, open source projects, and videos of my tech talks
--   http://www.jeanneyan.com Ð Implemented animated portfolio site for an art director, using jQuery
--   http://www.javasig.com Ð Contributed to Java community site, using JSF
 -   Tetris Ð Written in Swing
 -   JSoundFX Ð Sound player with graphical button effects, written in JavaFX
--   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
 -   Shutup Ð Contributed to open source lightning talk timer written in JavaFX
+-   http://www.jeanneyan.com Ð Implemented animated portfolio site for an art director, using jQuery
+-   http://www.javasig.com Ð Contributed to Java community site, using JSF
+-   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
 -   Greasemonkey scripts at userscripts.org
 
 

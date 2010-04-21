@@ -43,81 +43,76 @@ ul { margin: 8pt 0 8pt; }
 <p class="bodyText">A software engineering position in the Bay Area building highly usable, 
 scalable, fault-tolerant systems that delight end users, create sustainable business value, 
 and follow good development practices.</p>
+<h2>SUMMARY</h2>
+<p class="bodyText">Results-oriented software engineer with a passion for making great 
+software for the desktop and the web. I believe in writing clean APIs and making code easy 
+to read, test, and use. I enjoy learning new programming languages and technologies, and 
+teaching others what I know. Revenue gains, time savings, and usability are my top priorities. </p>
 <h2>TECHNICAL SKILLS</h2>
-<p class="bodyText">Java, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, 
-SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, 
-Oracle, SQL, JBoss, Maven, Ant, Groovy, Swing, JavaFX, Eclipse, NetBeans, TextMate, 
-CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, 
-Photoshop, Illustrator, InDesign, Linux, Mac, Windows</p>
+<p class="bodyText">Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, 
+Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, 
+Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, TextMate, CVS, Subversion, 
+Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, 
+InDesign, Linux, Mac, Windows</p>
 <h2>EXPERIENCE</h2>
 <h3>Marketing Technology Solutions (now QualityHealth)</h3>
 <h3 class="date">8/2005-Present</h3>
 <div class="clear"></div>
-<p class="bodyText">MTS is an industry leader in health-related targeted lead generation. The technology team builds
-and maintains multiple consumer web sites, a B2B site, and internal web applications for administration and reporting.</p>
-<p class="bodyText"><b>Environment:</b> Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts,
-Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS,
-Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, JFreeChart, Apache Commons</p>
+<p class="bodyText">MTS is an industry leader in health-related targeted lead generation, powered 
+by Java. The technology team builds and maintains multiple consumer web sites including qualityhealth.com, 
+plus a B2B site, and internal web applications for administration and reporting. Each developer is 
+responsible for end-to-end coding, reviewing, and automated testing of all application layers including 
+JavaScript, Java, and SQL.</p>
+<p class="bodyText"><b>Environment:</b> JDK 6, Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, Quartz, Splunk, JFreeChart, Apache Commons</p>
 <h4>Director of Software Development, Jersey City, NJ</h4>
 <h4 class="date">1/2009-Present</h4>
 <div class="clear"></div>
-<h5>Process improvements</h5>
+<h5>Technology improvements and projects</h5>
 <ul>
-    <li>Established coding conventions, rotating peer reviewers, group review process, and wiki documentation
-    process.</li>
-    <li>Instituted and led daily stand up meetings and post-release retrospectives to keep developers, QA, and
-    managers informed.</li>
-    <li>Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.</li>
-    <li>Gathered requirements from stakeholders, wrote functional and technical specs as needed before implementing
-    large projects.</li>
+    <li>Rearchitected metrics data storage system to increase thread safety and eliminate database locking, using atomic data types and materialized views.</li>
+    <li>Created searchable, categorizable content management system from scratch for 15 content types and newsletter automation system, increasing newsletter output 10-fold. This included automated parsing and conversion of various XML and fixed width data feeds from third party content vendors like Adam encyclopedia and NBC video.</li>
+    <li>Built code generator in Swing using NetBeans, to auto-build Entity EJBs, Session EJBs, and JUnit tests.</li>
+    <li>Built reflection-based system to preview field differences between like objects before promoting data changes from staging to production servers.</li>
+    <li>Wrote Groovy scripts for QA to verify Akamai caching in production, and taught them how to write more scripts.</li>
+    <li>Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to send customized, easy response test result emails using Groovy.</li>
+    <li>Cleaned and consolidated CSS and JavaScript files to reduce page load times.</li>
 </ul>
 <h5>Management</h5>
 <ul>
-    <li>Gave direction to seven developers and directly managed three, including mentoring and employee
-    evaluations.</li>
+    <li>Led the charge for increased code coverage with massive additions of Selenium and JUnit tests.</li>
+    <li>Managed group project to migrate from buggy CMS to faster, more stable solution.</li>
+    <li>Gave direction to seven developers and directly managed three, including mentoring and employee evaluations.</li>
     <li>Managed team of six consultants to implement complete overhaul of QualityHealth.com.</li>
     <li>Interviewed dozens of developers. Hired and trained five.</li>
-    <li>Managed group project to migrate from buggy CMS to faster, more stable solution.</li>
-    <li>Managed a team of 3 developers to integrate third party Adam encyclopedia content feed. This included
-    parsing XML feeds for 5 content types, converting the data into a taggable, searchable content management system.</li>
     <li>Ensured that developers got all 1,000+ Selenium test cases passing logically before each release.</li>
 </ul>
-<h5>Technology improvements and projects</h5>
+<h5>Process improvements</h5>
 <ul>
-    <li>Switched continuous integration servers from CruiseControl to Hudson. Maintained and upgraded Hudson to
-    send customized, easy response test result emails using Groovy.</li>
-    <li>Redesigned metrics cache-flushing system to increase thread safety and eliminate database locking, using
-    materialized views and atomic data types.</li>
-    <li>Created searchable, categorizable content management system for 15 content types and newsletter automation
-    system, increasing newsletter output 10-fold.</li>
-    <li>Built system to preview field differences between like objects before promoting data changes from staging
-    to production servers.</li>
-    <li>Built code generator in Swing using NetBeans, to accelerate creation of XDoclet-decorated Entity EJBs,
-    Session EJBs, and associated JUnit tests.</li>
+    <li>Established coding conventions, rotating peer reviewers, group review process, and wiki documentation process.</li>
+    <li>Instituted and led daily stand up meetings and post-release retrospectives.</li>
+    <li>Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.</li>
+    <li>Gathered requirements from stakeholders, wrote functional and technical specs.</li>
 </ul>
+
 <h4>Senior Software Engineer, Jersey City, NJ</h4>
 <h4 class="date">12/2007-12/2008</h4>
 <div class="clear"></div>
 <ul>
-    <li>Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize database.</li>
-    <li>Moved shell scripts into version control.</li>
-    <li>Enhanced server statistics reports with threshold-based color-coding for at-a-glance production health
-    metrics.</li>
-    <li>Added JavaScript-based filtering for long lists in internal administrative application.</li>
+    <li>Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.</li>
     <li>Implemented graphical charting with JFreeChart for existing reports.</li>
-    <li>Taught technical sessions on jQuery, Selenium, web site usability, Eclipse, CVS.</li>
-    <li>Created &quot;Branded Flow&quot; for survey engine, allowing full visual customization of a 7-page web flow
-    using a CSS file for each brand.</li>
-    <li>Refactored to improve performance, readability, and maintainability, while increasing code coverage.</li>
+    <li>Enhanced server statistics reports with threshold-based color-coding for at-a-glance production health metrics.</li>
+    <li>Added JavaScript-based filtering for long lists in internal administrative application.</li>
     <li>Invented ways to add Selenium testability to subsystems that had no tests due to complex web flow logic.</li>
+    <li>Refactored to improve performance, readability, and maintainability, while increasing code coverage.</li>
+    <li>Taught technical sessions on jQuery, Selenium, web site usability, Eclipse, CVS.</li>
+    <li>Moved shell scripts into version control.</li>
+    <li>Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize Oracle database.</li>
 </ul>
 <h4>Software Engineer, New York, NY</h4>
 <h4 class="date">4/2006-11/2007</h4>
 <div class="clear"></div>
 <ul>
-    <li>Created syndicated Ajax survey application deployed across multiple partner web sites. The app used forms,
-    animation, in-page forward and backward flow navigation, cross-domain requests using json-p, jQuery, JSLint and
-    Selenium tests.</li>
+    <li>Created syndicated Ajax survey application deployed across multiple partner web sites. The app used forms, animation, in-page forward and backward flow navigation, cross-domain requests using json-p, jQuery, JSLint and Selenium tests.</li>
     <li>Built event metrics capturing system for 17 user events with a combination of Ajax and server-side code.</li>
     <li>Integrated a new third-party email system, using Kettle for data loading and migration.</li>
 </ul>
@@ -125,10 +120,7 @@ Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, JFreeChart, Apache Com
 <h4 class="date">8/2005-3/2006</h4>
 <div class="clear"></div>
 <ul>
-    <li>Used Eclipse, vi, CVS to code Java using Entity EJBs and Stateless Session EJBs. Wrote JavaScript functions
-    and HTML. Used DB Studio, Unix shell scripting, sed, awk, Regex, SQL to build data transfer setups for clients
-    including Merck, GSK, and Pfizer. Performed Oracle SQL queries. Installed PGP and SSH public keys. Trained and
-    managed new employee. Wrote documentation.</li>
+    <li>Used Eclipse, vi, CVS to code Java using Entity EJBs and Stateless Session EJBs. Wrote JavaScript functions and HTML. Used DB Studio, Unix shell scripting, sed, awk, Regex, SQL to build data transfer setups for clients including Merck, GSK, and Pfizer. Performed Oracle SQL queries. Installed PGP and SSH public keys. Trained and managed new employee. Wrote documentation. </li>
 </ul>
 <h3>American Society for Psychical Research, New York, NY</h3>
 <h3 class="date">3/2001-10/2002</h3>
@@ -155,11 +147,12 @@ Auditude, a video monetization company.</p>
 <h2>SIDE PROJECTS</h2>
 <ul>
     <li>http://www.sondow.com &#8211; My blog, open source projects, and videos of my tech talks</li>
+    <li>Tetris &#8211; Written in Swing</li>
+    <li>JSoundFX  &#8211; Sound player with graphical button effects, written in JavaFX</li>
+    <li>Shutup &#8211; Contributed to open source lightning talk timer written in JavaFX</li>
     <li>http://www.jeanneyan.com &#8211; Implemented animated portfolio site for a graphic designer, using jQuery</li>
     <li>http://www.javasig.com &#8211; Contributed to Java community site, using JSF</li>
     <li>Inchfox &#8211; Created Firefox add-on for unit conversions, written in XUL and JavaScript</li>
-    <li>Shutup &#8211; Contributed to open source lightning talk timer written in JavaFX</li>
-    <li>Tetris clone written in Java Swing</li>
     <li>Greasemonkey scripts at userscripts.org</li>
 </ul>
 <h2>EDUCATION AND CERTIFICATION</h2>
