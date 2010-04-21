@@ -6,7 +6,7 @@
 <title>Joe Sondow</title>
 <style>
 <!--
-body { margin: .5in; }
+body { margin: .5in 1.0in; }
 
 h1 { margin: .25in  0 10.0pt 0; line-height: normal; page-break-after: avoid; font-size: 22.0pt; font-family: "Helvetica"; color: #1F497D; font-weight: normal; }
 h2 { margin: .32in  0 10.0pt 0; line-height: normal; page-break-after: avoid; font-size: 13.0pt; font-family: "Helvetica"; color: #1F497D; font-weight: 300; }
