@@ -40,14 +40,6 @@
         <servlet-name>Resume</servlet-name>
         <url-pattern>/resume</url-pattern>
     </servlet-mapping>
-    <servlet>
-        <servlet-name>CheckTimeZoneServlet</servlet-name>
-        <servlet-class>com.sondow.CheckTimeZoneServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>CheckTimeZoneServlet</servlet-name>
-        <url-pattern>/ctz</url-pattern>
-    </servlet-mapping>
     <welcome-file-list>
         <welcome-file>home.jsp</welcome-file>
     </welcome-file-list>

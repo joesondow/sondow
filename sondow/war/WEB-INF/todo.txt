@@ -1,4 +1,2 @@
 icons on lists, 
-blog entries,
-linkedin specialties
-linkedin summary
+blog entries
