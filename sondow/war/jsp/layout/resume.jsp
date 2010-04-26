@@ -35,37 +35,25 @@ ul { margin: 8pt 0 8pt; }
 
 </head>
 <body>
-<div class=Section1>
+<div class="Section1">
 <h1><a href="/">JOE SONDOW</a></h1>
-<p class="bodyText">304 W 92nd St Apt 6E, NYC, NY 10025 &#8226; Cell: 917-763-7816 &#8226; Home: 212-873-0376
-&#8226; joe@sondow.com &#8226; http://www.sondow.com</p>
-<h2>OBJECTIVE</h2>
-<p class="bodyText">A software engineering position in the Bay Area building highly usable, 
-scalable, fault-tolerant systems that delight end users, create sustainable business value, 
-and follow good development practices.</p>
+<p class="bodyText">917-763-7816 &#8226; joe@sondow.com &#8226; http://www.sondow.com</p>
 <h2>SUMMARY</h2>
-<p class="bodyText">Results-oriented software engineer with a passion for making great 
-software for the desktop and the web. I believe in writing clean APIs and making code easy 
-to read, test, and use. I enjoy learning new programming languages and technologies, and 
-teaching others what I know. Revenue gains, time savings, and usability are my top priorities. </p>
+<p class="bodyText">Results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.</p>
 <h2>TECHNICAL SKILLS</h2>
-<p class="bodyText">Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, 
-Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, 
-Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, TextMate, CVS, Subversion, 
-Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, 
-InDesign, Linux, Mac, Windows</p>
+<p class="bodyText">Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, TextMate, CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, InDesign, Linux, Mac, Windows</p>
 <h2>EXPERIENCE</h2>
-<h3>Marketing Technology Solutions (now QualityHealth)</h3>
+<h3>QualityHealth (formerly Marketing Technology Solutions)</h3>
 <h3 class="date">8/2005-Present</h3>
 <div class="clear"></div>
+<p class="bodyText">QualityHealth is an industry leader in health-related targeted lead generation, powered by Java. The company pays web publishers to deliver consumers to qualityhealth.com and other sites by offering free health samples, discounts, and info. A proprietary survey engine uses profiling questions to qualify consumers for market research surveys about pharmaceutical products. The survey responses are then sold at a premium to pharmaceutical companies as sales leads. In-house content management and newsletter automation systems bring consumers back for more surveys at low cost. The technology team builds and maintains consumer sites, a media partner B2B site, and internal web apps for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, CSS, JSP, Struts, EJB, Java, and SQL with indexes and constraints. </p>
 <p class="bodyText">MTS is an industry leader in health-related targeted lead generation, powered 
 by Java. The technology team builds and maintains multiple consumer web sites including qualityhealth.com, 
 plus a B2B site, and internal web applications for administration and reporting. Each developer is 
 responsible for end-to-end coding, reviewing, and automated testing of all application layers including 
 JavaScript, Java, and SQL.</p>
 <p class="bodyText"><b>Environment:</b> JDK 6, Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, Quartz, Splunk, JFreeChart, Apache Commons</p>
-<h4>Director of Software Development, Jersey City, NJ</h4>
-<h4 class="date">1/2009-Present</h4>
+<h4>Director of Software Development, Jersey City, NJ, 1/2009-Present</h4>
 <div class="clear"></div>
 <h5>Technology improvements and projects</h5>
 <ul>
@@ -94,8 +82,7 @@ JavaScript, Java, and SQL.</p>
     <li>Gathered requirements from stakeholders, wrote functional and technical specs.</li>
 </ul>
 
-<h4>Senior Software Engineer, Jersey City, NJ</h4>
-<h4 class="date">12/2007-12/2008</h4>
+<h4>Senior Software Engineer, Jersey City, NJ, 12/2007-12/2008</h4>
 <div class="clear"></div>
 <ul>
     <li>Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.</li>
@@ -108,16 +95,14 @@ JavaScript, Java, and SQL.</p>
     <li>Moved shell scripts into version control.</li>
     <li>Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize Oracle database.</li>
 </ul>
-<h4>Software Engineer, New York, NY</h4>
-<h4 class="date">4/2006-11/2007</h4>
+<h4>Software Engineer, New York, NY, 4/2006-11/2007</h4>
 <div class="clear"></div>
 <ul>
     <li>Created syndicated Ajax survey application deployed across multiple partner web sites. The app used forms, animation, in-page forward and backward flow navigation, cross-domain requests using json-p, jQuery, JSLint and Selenium tests.</li>
     <li>Built event metrics capturing system for 17 user events with a combination of Ajax and server-side code.</li>
     <li>Integrated a new third-party email system, using Kettle for data loading and migration.</li>
 </ul>
-<h4>Technical Operations Manager, New York, NY</h4>
-<h4 class="date">8/2005-3/2006</h4>
+<h4>Technical Operations Manager, New York, NY, 8/2005-3/2006</h4>
 <div class="clear"></div>
 <ul>
     <li>Used Eclipse, vi, CVS to code Java using Entity EJBs and Stateless Session EJBs. Wrote JavaScript functions and HTML. Used DB Studio, Unix shell scripting, sed, awk, Regex, SQL to build data transfer setups for clients including Merck, GSK, and Pfizer. Performed Oracle SQL queries. Installed PGP and SSH public keys. Trained and managed new employee. Wrote documentation. </li>
@@ -133,11 +118,10 @@ history of parapsychology.</p>
     <li>Coded JavaScript and HTML. Installed Perl CGI Scripts for product orders and surveys. Scripted batch image
     processing. Performed in-house tech support. Wrote detailed computer manuals.</li>
 </ul>
-<h3>Seet Internet Ventures, Inc., Los Angeles, CA</h3>
+<h3>Auditude (formerly Seet Internet Ventures, Inc.), Los Angeles, CA</h3>
 <h3 class="date">7/1999-2/2001</h3>
 <div class="clear"></div>
-<p class="bodyText">SIVI is an internet incubator that spawned over a dozen web companies and now focuses on
-Auditude, a video monetization company.</p>
+<p class="bodyText">SIVI was an internet incubator that spawned over a dozen web companies and is now Auditude, a video monetization company.</p>
 <h4>Director of Communications</h4>
 <div class="clear"></div>
 <ul>

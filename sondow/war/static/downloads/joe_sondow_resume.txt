@@ -1,16 +1,11 @@
 JOE SONDOW
 
-304 W 92nd St Apt 6E, NYC, NY 10025 - Cell: 917-763-7816 - Home: 212-873-0376 - joe@sondow.com - http://www.sondow.com
-
-
-OBJECTIVE
-
-A software engineering position in the Bay Area building highly usable, scalable, fault-tolerant systems that delight end users, create sustainable business value, and follow good development practices.
+917-763-7816 - joe@sondow.com - http://www.sondow.com
 
 
 SUMMARY
 
-Results-oriented software engineer with a passion for making great software for the desktop and the web. I believe in writing clean APIs and making code easy to read, test, and use. I enjoy learning new programming languages and technologies, and teaching others what I know. Revenue gains, time savings, and usability are my top priorities. 
+Results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.
 
 
 TECHNICAL SKILLS
@@ -20,12 +15,13 @@ Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, Servle
 
 EXPERIENCE
 
-Marketing Technology Solutions (now QualityHealth)  8/2005-Present
+QualityHealth (formerly Marketing Technology Solutions)   8/2005-Present
 
-MTS is an industry leader in health-related targeted lead generation, powered by Java. The technology team builds and maintains multiple consumer web sites including qualityhealth.com, plus a B2B site, and internal web applications for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, Java, and SQL. 
+QualityHealth is an industry leader in health-related targeted lead generation, powered by Java. The company pays web publishers to deliver consumers to qualityhealth.com and other sites by offering free health samples, discounts, and info. A proprietary survey engine uses profiling questions to qualify consumers for market research surveys about pharmaceutical products. The survey responses are then sold at a premium to pharmaceutical companies as sales leads. In-house content management and newsletter automation systems bring consumers back for more surveys at low cost. The technology team builds and maintains consumer sites, a media partner B2B site, and internal web apps for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, CSS, JSP, Struts, EJB, Java, and SQL with indexes and constraints. 
+
 Environment: JDK 6, Windows, Red Hat Linux, Eclipse, JBoss, Apache HTTP Server, Maven, Struts, Spring, EJB, JMS, XDoclet, JSP, HTML, CSS, JavaScript, jQuery, Oracle, SQL, Kettle, XSL, Hudson, JUnit, Selenium, CVS, Groovy, Grails, Java, DbUnit, dbdeploy, Drools, Velocity, Quartz, Splunk, JFreeChart, Apache Commons
 
-Director of Software Development, Jersey City, NJ   1/2009-Present
+Director of Development - Senior Software Engineer, Jersey City, NJ, 1/2009-Present
 
 Technology projects
 -   Rearchitected metrics data storage system to increase thread safety and eliminate database locking, using atomic data types and materialized views.
@@ -50,7 +46,7 @@ Process improvements
 -   Started weekly one-on-one employee meetings to find problems early. This practice spread to other managers.
 -   Gathered requirements from stakeholders, wrote functional and technical specs.
 
-Senior Software Engineer, Jersey City, NJ   12/2007-12/2008
+Senior Software Engineer, Jersey City, NJ, 12/2007-12/2008
 
 -   Created "Branded Flow" for survey engine, allowing full visual customization of a 7-page web flow using a CSS file for each brand.
 -   Implemented graphical charting with JFreeChart for existing reports.
@@ -62,13 +58,13 @@ Senior Software Engineer, Jersey City, NJ   12/2007-12/2008
 -   Moved shell scripts into version control.
 -   Acted as liaison for outsourced DBA. Helped implement hash and range partitioning to stabilize Oracle database.
 
-Software Engineer, New York, NY 4/2006-11/2007
+Software Engineer, New York, NY, 4/2006-11/2007
 
 -   Created syndicated Ajax survey application deployed across multiple partner web sites. The app used forms, animation, in-page forward and backward flow navigation, cross-domain requests using json-p, jQuery, JSLint and Selenium tests.
 -   Built event metrics capturing system for 17 user events with a combination of Ajax and server-side code.
 -   Integrated a new third-party email system, using Kettle for data loading and migration.
 
-Technical Operations Manager, New York, NY  8/2005-3/2006
+Technical Operations Manager, New York, NY, 8/2005-3/2006
 
 -   Used Eclipse, vi, CVS to code Java using Entity EJBs and Stateless Session EJBs. Wrote JavaScript functions and HTML. Used DB Studio, Unix shell scripting, sed, awk, Regex, SQL to build data transfer setups for clients including Merck, GSK, and Pfizer. Performed Oracle SQL queries. Installed PGP and SSH public keys. Trained and managed new employee. Wrote documentation. 
 
@@ -81,7 +77,7 @@ Web Developer
 -   Coded JavaScript and HTML. Installed Perl CGI Scripts for product orders and surveys. Scripted batch image processing. Performed in-house tech support. Wrote detailed computer manuals.
 
 
-Seet Internet Ventures, Inc., Los Angeles, CA   7/1999-2/2001
+Auditude (formerly Seet Internet Ventures, Inc.), Los Angeles, CA   7/1999-2/2001
 
 SIVI is an internet incubator that spawned over a dozen web companies and now focuses on Auditude, a video monetization company.
 
@@ -92,24 +88,24 @@ Director of Communications
  
 SIDE PROJECTS
 
--   http://www.sondow.com Ð My blog, open source projects, and videos of my tech talks
--   Tetris Ð Written in Swing
--   JSoundFX Ð Sound player with graphical button effects, written in JavaFX
--   Shutup Ð Contributed to open source lightning talk timer written in JavaFX
--   http://www.jeanneyan.com Ð Implemented animated portfolio site for an art director, using jQuery
--   http://www.javasig.com Ð Contributed to Java community site, using JSF
--   Inchfox Ð Created Firefox add-on for unit conversions, written in XUL and JavaScript
+-   http://www.sondow.com - My blog, open source projects, and videos of my tech talks
+-   Tetris - Written in Swing
+-   JSoundFX - Sound player with graphical button effects, written in JavaFX
+-   Shutup - Contributed to open source lightning talk timer written in JavaFX
+-   http://www.jeanneyan.com - Implemented animated portfolio site for an art director, using jQuery
+-   http://www.javasig.com - Contributed to Java community site, using JSF
+-   Inchfox - Created Firefox add-on for unit conversions, written in XUL and JavaScript
 -   Greasemonkey scripts at userscripts.org
 
 
 EDUCATION AND CERTIFICATION
 
-Columbia University 12/2004
+Columbia University   12/2004
 
 Java Programming and Software Development Certificate (GPA 4.1)
 8-course program over 16 months covering OOAD, UML, Java, JSP, JDBC, SQL, Oracle, XML, SAX, J2EE, EJB (Session, Entity, Message-Driven Beans), JMS, JNDI, Struts, MVC, DOM, Regex, Log4J, Ant, JBoss, Swing, AWT, threads, sockets, C, C++
 
-Sun Microsystems    5/2005
+Sun Microsystems   5/2005
 
 Sun Certified Programmer for the Java 2 Platform 1.4 (SCJP) (Score: 98%)
 Sun Certified Associate for the Java 2 Platform 1.4 (SCJA) (Score: 98%) 
