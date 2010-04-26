@@ -15,8 +15,6 @@ div.home div.header     { position: relative; margin-top: 20px; border-top: 1px 
 div.home div.header h1  { position: absolute; bottom: 17px; left: 149px; color: white; font-weight: normal; margin: 0; width: 120px; }
 div.home div.header img { position: absolute; bottom: 23px; left:  33px; height: 113px; border: 1px solid #1A588F; }
 
-ul.outerList li.software h2 { background-image: url(/static/images/section_title_shine.png); background-repeat: repeat-x; }
-
 ul.outerList            { background-image:url(/static/images/section_title_bar.jpg); background-repeat: repeat-x; }
 ul.outerList            { float: left; background-color: #111925; margin: 0; width: 100%; }
 ul.outerList li         { float: left; border-right: 1px solid #284351;      width: 184px; height: 260px; margin: 0; }
