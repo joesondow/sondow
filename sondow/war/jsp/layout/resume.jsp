@@ -37,14 +37,14 @@ ul { margin: 8pt 0 8pt; }
 <body>
 <div class="Section1">
 <h1><a href="/">JOE SONDOW</a></h1>
-<p class="bodyText">917-763-7816 &#8226; joe@sondow.com &#8226; http://www.sondow.com</p>
+<p class="bodyText">joe@sondow.com &#8226; http://www.sondow.com</p>
 <h2>SUMMARY</h2>
-<p class="bodyText">Results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.</p>
+<p class="bodyText">Silicon Valley based, results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.</p>
 <h2>TECHNICAL SKILLS</h2>
 <p class="bodyText">Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, Servlets, Struts, SQL, Regex, SAX, DOM, JavaScript, jQuery, Prototype, Ajax, CSS, HTML, Shell scripting, Velocity, Oracle, SQL, JBoss, Maven, Ant, TextMate, CVS, Subversion, Pentaho Data Integration (Kettle), Hudson, JUnit, Selenium, Firebug, Photoshop, Illustrator, InDesign, Linux, Mac, Windows</p>
 <h2>EXPERIENCE</h2>
 <h3>QualityHealth (formerly Marketing Technology Solutions)</h3>
-<h3 class="date">8/2005-Present</h3>
+<h3 class="date">8/2005-5/2010</h3>
 <div class="clear"></div>
 <p class="bodyText">QualityHealth is an industry leader in health-related targeted lead generation, powered by Java. The company pays web publishers to deliver consumers to qualityhealth.com and other sites by offering free health samples, discounts, and info. A proprietary survey engine uses profiling questions to qualify consumers for market research surveys about pharmaceutical products. The survey responses are then sold at a premium to pharmaceutical companies as sales leads. In-house content management and newsletter automation systems bring consumers back for more surveys at low cost. The technology team builds and maintains consumer sites, a media partner B2B site, and internal web apps for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, CSS, JSP, Struts, EJB, Java, and SQL with indexes and constraints. </p>
 <p class="bodyText">MTS is an industry leader in health-related targeted lead generation, powered 

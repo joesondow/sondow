@@ -1,11 +1,11 @@
 JOE SONDOW
 
-917-763-7816 - joe@sondow.com - http://www.sondow.com
+joe@sondow.com - http://www.sondow.com
 
 
 SUMMARY
 
-Results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.
+Silicon Valley based, results-oriented software engineer with a passion for crafting great software with clean APIs and code that is easy to read, test, and use. Professional priorities are revenue gains, cost savings, time savings, usability, code quality, and improving engineering teams. Experienced in creating highly usable, scalable, fault-tolerant systems primarily for the web.
 
 
 TECHNICAL SKILLS
@@ -15,7 +15,7 @@ Java, JavaFX, Eclipse, NetBeans, Swing, Groovy, JSP, JSTL, EL, JDBC, JMS, Servle
 
 EXPERIENCE
 
-QualityHealth (formerly Marketing Technology Solutions)   8/2005-Present
+QualityHealth (formerly Marketing Technology Solutions)   8/2005-5/2010
 
 QualityHealth is an industry leader in health-related targeted lead generation, powered by Java. The company pays web publishers to deliver consumers to qualityhealth.com and other sites by offering free health samples, discounts, and info. A proprietary survey engine uses profiling questions to qualify consumers for market research surveys about pharmaceutical products. The survey responses are then sold at a premium to pharmaceutical companies as sales leads. In-house content management and newsletter automation systems bring consumers back for more surveys at low cost. The technology team builds and maintains consumer sites, a media partner B2B site, and internal web apps for administration and reporting. Each developer is responsible for end-to-end coding, reviewing, and automated testing of all application layers including JavaScript, CSS, JSP, Struts, EJB, Java, and SQL with indexes and constraints. 
 
