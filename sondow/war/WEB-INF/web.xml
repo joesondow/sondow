@@ -40,6 +40,56 @@
         <servlet-name>Resume</servlet-name>
         <url-pattern>/resume</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>LongDistanceVoterWidget</servlet-name>
+        <jsp-file>/jsp/layout/ldv.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LongDistanceVoterWidget</servlet-name>
+        <url-pattern>/ldv</url-pattern>
+    </servlet-mapping>
+
+    
+    <!-- Friends On A Map (FOAM) URLs -->
+    
+    <servlet>
+        <servlet-name>Facebook FOAM Post-Authorize Callback</servlet-name>
+        <jsp-file>/jsp/foam/post-auth.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Facebook FOAM Post-Authorize Callback</servlet-name>
+        <url-pattern>/foam/post-auth</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Facebook FOAM Post-Remove Callback</servlet-name>
+        <jsp-file>/jsp/foam/post-remove.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Facebook FOAM Post-Remove Callback</servlet-name>
+        <url-pattern>/foam/post-remove</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>Facebook FOAM Main Page</servlet-name>
+        <servlet-class>com.sondow.foam.MainPageServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Facebook FOAM Main Page</servlet-name>
+        <url-pattern>/foam/main</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>Facebook FOAM Canvas Callback</servlet-name>
+        <servlet-class>com.sondow.foam.CanvasServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Facebook FOAM Canvas Callback</servlet-name>
+        <url-pattern>/foam/*</url-pattern>
+    </servlet-mapping>
+    
     <welcome-file-list>
         <welcome-file>home.jsp</welcome-file>
     </welcome-file-list>
