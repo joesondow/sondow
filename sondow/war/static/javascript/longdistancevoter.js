@@ -100,7 +100,7 @@
     init = function() {
         widgetContainers = findContainers();
         if (widgetContainers && widgetContainers.length) { setUpAllContainers(); }
-    }
+    };
     if (document.addEventListener) {
         document.addEventListener("DOMContentLoaded", init, false)
     } else {
