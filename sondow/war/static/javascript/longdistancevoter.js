@@ -106,4 +106,5 @@
     } else {
         window.attachEvent('onload', init);
     }
+    document.write('<div class="longdistancevoter"></div>');
 }());
