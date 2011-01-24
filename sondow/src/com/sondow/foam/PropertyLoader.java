@@ -10,7 +10,7 @@ public abstract class PropertyLoader {
 
     /**
      * Looks up a resource named 'name' in the classpath. The resource must map
-     * to a file with .properties extention. The name is assumed to be absolute
+     * to a file with .properties extension. The name is assumed to be absolute
      * and can use either "/" or "." for package segment separation with an
      * optional leading "/" and optional ".properties" suffix. Thus, the
      * following names refer to the same resource:
@@ -54,7 +54,7 @@ public abstract class PropertyLoader {
                 loader = ClassLoader.getSystemClassLoader();
             }
 
-            if (LOAD_AS_RESOURCE_BUNDLE) {
+            if (shouldLoadAsResourceBundle()) {
                 name = name.replace('/', '.');
                 // Throws MissingResourceException on lookup failures:
                 final ResourceBundle rb = ResourceBundle.getBundle(name, Locale
@@ -98,7 +98,7 @@ public abstract class PropertyLoader {
                     + name
                     + "]"
                     + " as "
-                    + (LOAD_AS_RESOURCE_BUNDLE ? "a resource bundle"
+                    + (shouldLoadAsResourceBundle() ? "a resource bundle"
                             : "a classloader resource"));
         }
 
@@ -112,6 +112,10 @@ public abstract class PropertyLoader {
     public static Properties loadProperties(final String name) {
         return loadProperties(name, Thread.currentThread()
                 .getContextClassLoader());
+    }
+
+    private static boolean shouldLoadAsResourceBundle() {
+        return LOAD_AS_RESOURCE_BUNDLE;
     }
 
     private static final boolean THROW_ON_LOAD_FAILURE = true;
