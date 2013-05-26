@@ -24,7 +24,7 @@
             		        <ul>
             			        <li><a href="http://www.youtube.com/watch?v=49BSDSkZ7uU&t=1h5m57s">Asgard</a> <span class="note">22m</span></li>
             			        <li><a href="http://blip.tv/silicon-valley-cloud-computing-group/building-cloud-tools-for-netflix-5754984">Cloud Tools</a> <span class="note">47m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Harlem Shake</a> <span class="note">31s</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=J0bnvUC29uM">Harlem Shake</a> <span class="note">31s</span></li>
                                 <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Netflix Cloud</a> <span class="note">4m</span></li>
             			        <li><a href="http://www.youtube.com/watch?v=0C-PjAPVze8">Hero Letters</a> <span class="note">5m</span></li>
                                 <li><a href="http://www.youtube.com/watch?v=SgrUgjiYyTo">Failure</a> <span class="note">3m</span></li>
