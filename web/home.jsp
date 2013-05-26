@@ -22,19 +22,19 @@
             	        </li>
             	        <li class="lightning"><h2>Videos</h2>
             		        <ul>
-            			        <li><a href="http://www.youtube.com/watch?v=49BSDSkZ7uU&t=1h5m57s">Asgard</a> <span class="note">2013, 22m</span></li>
-            			        <li><a href="http://blip.tv/silicon-valley-cloud-computing-group/building-cloud-tools-for-netflix-5754984">Cloud Tools</a> <span class="note">2011, 47m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Harlem Shake</a> <span class="note">2013, 31s</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Netflix Cloud</a> <span class="note">2011, 4m</span></li>
-            			        <li><a href="http://www.youtube.com/watch?v=0C-PjAPVze8">Hero Letters</a> <span class="note">2012, 5m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=SgrUgjiYyTo">Failure</a> <span class="note">2012, 3m</span></li>
-            			        <li><a href="http://www.youtube.com/watch?v=2ExNETyPHP0">Tango Icons</a> <span class="note">2011, 5m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=2ExNETyPHP0">Web Dev Tools</a> <span class="note">2011, 5m</span></li>
+            			        <li><a href="http://www.youtube.com/watch?v=49BSDSkZ7uU&t=1h5m57s">Asgard</a> <span class="note">22m</span></li>
+            			        <li><a href="http://blip.tv/silicon-valley-cloud-computing-group/building-cloud-tools-for-netflix-5754984">Cloud Tools</a> <span class="note">47m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Harlem Shake</a> <span class="note">31s</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=lJXQAWUZYR4">Netflix Cloud</a> <span class="note">4m</span></li>
+            			        <li><a href="http://www.youtube.com/watch?v=0C-PjAPVze8">Hero Letters</a> <span class="note">5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=SgrUgjiYyTo">Failure</a> <span class="note">3m</span></li>
+            			        <li><a href="http://www.youtube.com/watch?v=2ExNETyPHP0">Tango Icons</a> <span class="note">5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=2ExNETyPHP0">Web Dev Tools</a> <span class="note">5m</span></li>
                                 <%--<li><a href="http://www.youtube.com/watch?v=IHnphd0I4bg">Java Posse Sound FX</a></li>--%>
-                                <li><a href="http://www.youtube.com/watch?v=LilQDhDRwuU">Firebug</a> <span class="note">2010, 5m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=SDJLR7VCikM">Skinnable CSS</a> <span class="note">2009, 5m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=owUDhuFKhUg">JavaScript Shell</a> <span class="note">2009, 5m</span></li>
-                                <li><a href="http://www.youtube.com/watch?v=DFPacPVlUHk">Selenium IDE</a> <span class="note">2009, 5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=LilQDhDRwuU">Firebug</a> <span class="note">5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=SDJLR7VCikM">Skinnable CSS</a> <span class="note">5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=owUDhuFKhUg">JavaScript Shell</a> <span class="note">5m</span></li>
+                                <li><a href="http://www.youtube.com/watch?v=DFPacPVlUHk">Selenium IDE</a> <span class="note">5m</span></li>
             		        </ul>
             	        </li>
                     	<li class="social"><h2>Writing</h2>
