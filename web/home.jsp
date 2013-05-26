@@ -72,7 +72,7 @@
                                         <li><a href="http://javaposse.com/java-posse-414-roundup-12-go-big-client-side">Client Side</a></li>
                                         <li><a href="http://javaposse.com/java-posse-406-roundup-12-cloud-and-paas">Cloud and PAAS</a></li>
                                         <li><a href="http://javaposse.com/java-posse-394-roundup-12-modern-web-apps">Modern Web Apps</a></li>
-                                        <li><a href="http://javaposse.com/java-posse-392-roundup-12-continuous-deployment">Contin. Deployment</a></li>
+                                        <li><a href="http://javaposse.com/java-posse-392-roundup-12-continuous-deployment">Continuous Deployment</a></li>
                                         <li><a href="http://javaposse.com/java-posse-387-roundup-12-no-sql">NoSQL</a></li>
                                         <li><a href="http://javaposse.com/java-posse-359-roundup-11-developer-practices">Developer Practices</a></li>
                                         <li><a href="http://javaposse.com/java-posse-349-roundup-11-functional-testing">Functional Testing</a></li>

@@ -24,7 +24,7 @@ ul.outerList > li h3    { color: white; font-weight: normal; font-size: 11pt; ma
 ul.outerList ul ul      { padding: 0; }
 
 
-ul.outerList > li > ul        { float: left; padding: 0 13px 0 17px; margin: 0; }
+ul.outerList > li > ul        { float: left; padding: 0 14px; margin: 0; }
 ul.outerList > li > ul > li   { text-indent: -16px; width: auto; color: white; font-weight: normal; font-size: 10pt; line-height: 150%; }
 ul.outerList > li > ul > li   { padding-left: 16px; width: auto; height: auto; float: none; border: none; }
 ul.outerList > li > ul > li a { color: #86B6FF; font-weight: normal; font-size: 11pt; text-decoration: none; }
